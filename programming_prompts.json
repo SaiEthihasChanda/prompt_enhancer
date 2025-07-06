@@ -1,0 +1,122 @@
+[
+    {
+        "original": "Can you please provide a detailed explanation of how to implement a binary search algorithm in Python?",
+        "enhanced": "Explain binary search implementation in Python"
+    },
+    {
+        "original": "I need a step-by-step guide on writing a function to reverse a linked list in C++",
+        "enhanced": "Write a C++ function to reverse a linked list"
+    },
+    {
+        "original": "Could you tell me what’s wrong with my Java code that’s supposed to sort an array?",
+        "enhanced": "Debug Java array sorting code"
+    },
+    {
+        "original": "I want to know how to create a simple web server using Node.js with detailed instructions",
+        "enhanced": "Create a simple Node.js web server"
+    },
+    {
+        "original": "Please give me a comprehensive overview of object-oriented programming concepts in Java",
+        "enhanced": "Explain OOP concepts in Java"
+    },
+    {
+        "original": "How do I go about writing a Python script to scrape data from a website?",
+        "enhanced": "Write a Python script for web scraping"
+    },
+    {
+        "original": "Can you help me understand the difference between a stack and a queue in data structures?",
+        "enhanced": "Compare stack and queue data structures"
+    },
+    {
+        "original": "I’m trying to figure out how to use recursion to solve the Fibonacci sequence in JavaScript",
+        "enhanced": "Implement Fibonacci sequence using recursion in JavaScript"
+    },
+    {
+        "original": "Please provide a code example for connecting to a MySQL database using PHP",
+        "enhanced": "Write PHP code to connect to MySQL database"
+    },
+    {
+        "original": "What is the best way to optimize a SQL query for large datasets?",
+        "enhanced": "Optimize SQL query for large datasets"
+    },
+    {
+        "original": "I need assistance with writing a bash script to automate file backups",
+        "enhanced": "Write a bash script for file backup automation"
+    },
+    {
+        "original": "Can you explain how to use Git for version control in a collaborative project?",
+        "enhanced": "Explain Git for collaborative version control"
+    },
+    {
+        "original": "I want to learn how to implement a REST API in Python using Flask",
+        "enhanced": "Implement a REST API in Python with Flask"
+    },
+    {
+        "original": "Please tell me how to debug a segmentation fault in a C program",
+        "enhanced": "Debug segmentation fault in C program"
+    },
+    {
+        "original": "How can I write a function to check if a string is a palindrome in Python?",
+        "enhanced": "Write a Python function to check palindrome string"
+    },
+    {
+        "original": "I need a detailed guide on setting up a Django project for beginners",
+        "enhanced": "Set up a Django project for beginners"
+    },
+    {
+        "original": "Can you show me how to use regular expressions in JavaScript to validate an email?",
+        "enhanced": "Validate email using regular expressions in JavaScript"
+    },
+    {
+        "original": "Please provide an example of a sorting algorithm implemented in C",
+        "enhanced": "Implement a sorting algorithm in C"
+    },
+    {
+        "original": "I’m looking for a way to parse JSON data in a Python script",
+        "enhanced": "Parse JSON data in Python"
+    },
+    {
+        "original": "How do I create a simple GUI application using Tkinter in Python?",
+        "enhanced": "Create a Tkinter GUI application in Python"
+    },
+    {
+        "original": "Can you explain the concept of closures in JavaScript with an example?",
+        "enhanced": "Explain JavaScript closures with example"
+    },
+    {
+        "original": "I need help with writing a Python program to calculate the factorial of a number",
+        "enhanced": "Write a Python program for factorial calculation"
+    },
+    {
+        "original": "Please tell me how to set up a virtual environment in Python for a project",
+        "enhanced": "Set up Python virtual environment"
+    },
+    {
+        "original": "How can I implement a breadth-first search algorithm in Java?",
+        "enhanced": "Implement breadth-first search in Java"
+    },
+    {
+        "original": "I want to know how to handle exceptions in a Python program",
+        "enhanced": "Handle exceptions in Python"
+    },
+    {
+        "original": "Can you provide a code snippet for file I/O operations in C++?",
+        "enhanced": "Write C++ code for file I/O"
+    },
+    {
+        "original": "Please explain how to use Docker to containerize a Python application",
+        "enhanced": "Containerize Python application with Docker"
+    },
+    {
+        "original": "I need a way to merge two sorted arrays in Java efficiently",
+        "enhanced": "Merge two sorted arrays in Java"
+    },
+    {
+        "original": "How do I write a function to find the longest common substring in Python?",
+        "enhanced": "Write Python function for longest common substring"
+    },
+    {
+        "original": "Can you give me a detailed explanation of how to use multithreading in Python?",
+        "enhanced": "Explain multithreading in Python"
+    }
+]

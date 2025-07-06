@@ -1,0 +1,3794 @@
+[
+  {
+    "original": "Can you please provide a detailed explanation of how to implement a binary search algorithm in Python?",
+    "enhanced": "Explain binary search implementation in Python"
+  },
+  {
+    "original": "I need a step-by-step guide on writing a function to reverse a linked list in C++",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me what\u00e2\u20ac\u2122s wrong with my Java code that\u00e2\u20ac\u2122s supposed to sort an array?",
+    "enhanced": "Debug Java array sorting code"
+  },
+  {
+    "original": "I want to know how to create a simple web server using Node.js with detailed instructions",
+    "enhanced": "Create Node.js web server"
+  },
+  {
+    "original": "Please give me a comprehensive overview of object-oriented programming concepts in Java",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "How do I go about writing a Python script to scrape data from a website?",
+    "enhanced": "Write Python web scraping script"
+  },
+  {
+    "original": "Can you help me understand the difference between a stack and a queue in data structures?",
+    "enhanced": "Compare stack and queue data structures"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to figure out how to use recursion to solve the Fibonacci sequence in JavaScript",
+    "enhanced": "Implement Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "Please provide a code example for connecting to a MySQL database using PHP",
+    "enhanced": "Write PHP code to connect to MySQL database"
+  },
+  {
+    "original": "What is the best way to optimize a SQL query for large datasets?",
+    "enhanced": "Optimize SQL query for large datasets"
+  },
+  {
+    "original": "I need assistance with writing a bash script to automate file backups",
+    "enhanced": "Write bash script for file backup automation"
+  },
+  {
+    "original": "Can you explain how to use Git for version control in a collaborative project?",
+    "enhanced": "Explain Git for collaborative version control"
+  },
+  {
+    "original": "I want to learn how to implement a REST API in Python using Flask",
+    "enhanced": "Implement REST API in Python with Flask"
+  },
+  {
+    "original": "Please tell me how to debug a segmentation fault in a C program",
+    "enhanced": "Debug segmentation fault in C program"
+  },
+  {
+    "original": "How can I write a function to check if a string is a palindrome in Python?",
+    "enhanced": "Write Python function to check palindrome string"
+  },
+  {
+    "original": "I need a detailed guide on setting up a Django project for beginners",
+    "enhanced": "Set up Django project for beginners"
+  },
+  {
+    "original": "Can you show me how to use regular expressions in JavaScript to validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please provide an example of a sorting algorithm implemented in C",
+    "enhanced": "Implement sorting algorithm in C"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m looking for a way to parse JSON data in a Python script",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "How do I create a simple GUI application using Tkinter in Python?",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "Can you explain the concept of closures in JavaScript with an example?",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "I need help with writing a Python program to calculate the factorial of a number",
+    "enhanced": "Write Python program for factorial calculation"
+  },
+  {
+    "original": "Please tell me how to set up a virtual environment in Python for a project",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How can I implement a breadth-first search algorithm in Java?",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "I want to know how to handle exceptions in a Python program",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "Can you provide a code snippet for file I/O operations in C++?",
+    "enhanced": "Write C++ code for file I/O"
+  },
+  {
+    "original": "Please explain how to use Docker to containerize a Python application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "I need a way to merge two sorted arrays in Java efficiently",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "How do I write a function to find the longest common substring in Python?",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "Can you give me a detailed explanation of how to use multithreading in Python?",
+    "enhanced": "Explain multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m struggling to understand how to implement a depth-first search in C++",
+    "enhanced": "Implement depth-first search in C++"
+  },
+  {
+    "original": "Can you show me how to create a simple REST API in Node.js?",
+    "enhanced": "Create REST API in Node.js"
+  },
+  {
+    "original": "Please help me write a Python script to process CSV files",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "How can I use SQL to join multiple tables in a database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "I want to know how to implement a hash table in C",
+    "enhanced": "Implement hash table in C"
+  },
+  {
+    "original": "Can you explain the difference between synchronous and asynchronous programming in JavaScript?",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please provide a Python script to connect to an API and fetch data",
+    "enhanced": "Write Python script to fetch API data"
+  },
+  {
+    "original": "How do I set up unit tests for a Python function?",
+    "enhanced": "Set up unit tests for Python function"
+  },
+  {
+    "original": "Can you help me understand how to use lambda functions in Python?",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "I need a guide on how to create a simple game using Pygame in Python",
+    "enhanced": "Create Pygame game in Python"
+  },
+  {
+    "original": "Please tell me how to optimize a Python script for performance",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "How can I implement a queue data structure in Java?",
+    "enhanced": "Implement queue data structure in Java"
+  },
+  {
+    "original": "Can you provide an example of using promises in JavaScript?",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "I want to learn how to use regular expressions in Python for text processing",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "Please explain how to set up a CI/CD pipeline using GitHub Actions",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "How do I write a C++ program to perform matrix multiplication?",
+    "enhanced": "Write C++ program for matrix multiplication"
+  },
+  {
+    "original": "Can you show me how to handle file uploads in a Flask application?",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "I need help understanding how to use pointers in C",
+    "enhanced": "Explain pointers in C"
+  },
+  {
+    "original": "Please provide a JavaScript function to validate a phone number",
+    "enhanced": "Write JavaScript function to validate phone number"
+  },
+  {
+    "original": "Can you please provide algorithm detailed explanation of ways to to implement a quickly binary search a in Python?",
+    "enhanced": "Explain binary search implementation in Python"
+  },
+  {
+    "original": "need a step-by-step comprehensive guide on writing a function to reverse a linked list",
+    "enhanced": "Explain C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me what\u00e2\u20ac\u2122s wrong with my Java code an supposed to sort that\u00e2\u20ac\u2122s array?",
+    "enhanced": "Develop Java array sorting code"
+  },
+  {
+    "original": "simple want to know how to create a I web server using Node.js with detailed instructions",
+    "enhanced": "Create Node.js web server"
+  },
+  {
+    "original": "Please give me a  overview of object-oriented programming concepts in Java",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "How do I go about writing a Python script to scrape data quickly from a website?",
+    "enhanced": "Implement Python web scraping script"
+  },
+  {
+    "original": "Show me how to help me understand the difference between a stack and step-by-step a queue in data structures?",
+    "enhanced": "Compare stack and queue data structures"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to figure out ways to to use recursion to solve the Fibonacci sequence in JavaScript",
+    "enhanced": "Implement Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "Please provide example code a for connecting to a MySQL database",
+    "enhanced": "Explain PHP code to connect to MySQL database"
+  },
+  {
+    "original": "What is the best way to optimize a SQL kindly query for large datasets?",
+    "enhanced": "Optimize SQL query for large datasets"
+  },
+  {
+    "original": "need assistance with writing a bash script step-by-step to automate",
+    "enhanced": "Write bash script for file backup automation"
+  },
+  {
+    "original": "need illustrate how to use Git for version control in a collaborative project?",
+    "enhanced": "Develop Git for collaborative version control"
+  },
+  {
+    "original": "I want to learn how to execute a REST API in Python using Flask",
+    "enhanced": "Develop REST API in Python with Flask"
+  },
+  {
+    "original": "Please tell me how to resolve a segmentation fault in a C",
+    "enhanced": "Debug segmentation fault in C program"
+  },
+  {
+    "original": "How can I write a kindly function to check if a string is a palindrome in Python?",
+    "enhanced": "Write Python function to check palindrome string"
+  },
+  {
+    "original": "I need detailed a guide on in detail setting up a Django project for beginners",
+    "enhanced": "Explain Django project for beginners"
+  },
+  {
+    "original": "I need show me how to in detail use regular expressions in JavaScript to validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please provide an example of a sorting in detail algorithm implemented in C",
+    "enhanced": "Describe sorting algorithm in C"
+  },
+  {
+    "original": "create a simple in detail GUI application using Tkinter in Python?",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "Show me how to help with writing a Python program to calculate the factorial of a number",
+    "enhanced": "Write Python program for factorial calculation"
+  },
+  {
+    "original": "Please tell in how to set up a virtual environment me Python for a project",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How can I implement a in detail breadth-first search algorithm in Java?",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "want to know how in handle exceptions to a Python",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "Show me how to provide a code snippet for file I/O operations in in detail C++?",
+    "enhanced": "Write C++ code for file I/O"
+  },
+  {
+    "original": "Please elucidate approach to to use Docker to containerize a Python application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "I need a way to merge two sorted step-by-step arrays in Java efficiently",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "me how to kindly write the function to find a longest common substring",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "you give me a detailed explanation of steps to to use multithreading in Python?",
+    "enhanced": "Explain multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m struggling to understand how to implement kindly a depth-first search in C++",
+    "enhanced": "Implement depth-first search in C++"
+  },
+  {
+    "original": "Can you show me how to create a simple REST API kindly in Node.js?",
+    "enhanced": "Create REST API in Node.js"
+  },
+  {
+    "original": "Please help me code a Python script to process CSV files",
+    "enhanced": "Set up Python script to process CSV files"
+  },
+  {
+    "original": "I want to know how to implement a hash table in C",
+    "enhanced": "Explain hash table in C"
+  },
+  {
+    "original": "Can you elucidate the difference between synchronous and asynchronous programming",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "supply a Python script to connect comprehensive to an API and fetch data",
+    "enhanced": "Write Python script to fetch API data"
+  },
+  {
+    "original": "How do I set up unit tests for a quickly Python function?",
+    "enhanced": "Create unit tests for Python function"
+  },
+  {
+    "original": "use help me understand technique for kindly to need lambda functions",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "What kindly is the way to a guide on how to create a simple game using Pygame in Python",
+    "enhanced": "Explain Pygame game in Python"
+  },
+  {
+    "original": "Please tell me a to to optimize approach Python script for performance",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "How can I execute in queue data structure a Java?",
+    "enhanced": "Compare queue data structure in Java"
+  },
+  {
+    "original": "using you provide an example of Can promises in JavaScript?",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "I want expressions learn how to use regular step-by-step to in Python for text processing",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "Please illustrate how to set up a CI/CD pipeline using GitHub Actions",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "What is the way to build quickly a C++ program to perform matrix multiplication?",
+    "enhanced": "Write C++ program for matrix multiplication"
+  },
+  {
+    "original": "Please tell me how to show me how to handle file uploads in a Flask comprehensive application?",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "Show me how to help understanding approach to to use pointers in C",
+    "enhanced": "Explain pointers in C"
+  },
+  {
+    "original": "Please provide JavaScript a function to validate quickly a phone number",
+    "enhanced": "Write JavaScript function to validate phone number"
+  },
+  {
+    "original": "What is the way to please provide a detailed explanation of kindly how to implement a binary search algorithm in Python?",
+    "enhanced": "Compare binary search implementation in Python"
+  },
+  {
+    "original": "a step-by-step guide on comprehensive writing a function to reverse a linked list in",
+    "enhanced": "Debug C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me what\u00e2\u20ac\u2122s wrong with step-by-step my Java code that\u00e2\u20ac\u2122s supposed to sort an array?",
+    "enhanced": "Debug Java array sorting code"
+  },
+  {
+    "original": "I want to know how Node.js create a step-by-step simple web server using to with detailed instructions",
+    "enhanced": "Develop Node.js web server"
+  },
+  {
+    "original": "Please give me a  overview of object-oriented programming concepts in Java",
+    "enhanced": "Describe OOP concepts in Java"
+  },
+  {
+    "original": "Can you help me understand the difference kindly between a stack and a queue in data structures?",
+    "enhanced": "Debug stack and queue data structures"
+  },
+  {
+    "original": "to figure out how to use recursion to solve the Fibonacci sequence in",
+    "enhanced": "Compare Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "provide a code example for connecting to a MySQL comprehensive database using",
+    "enhanced": "Write PHP code to connect to MySQL database"
+  },
+  {
+    "original": "is the best way to optimize a SQL query for large kindly datasets?",
+    "enhanced": "Optimize SQL query for large datasets"
+  },
+  {
+    "original": "What is the way to assistance with writing a bash script to automate step-by-step file backups",
+    "enhanced": "Develop bash script for file backup automation"
+  },
+  {
+    "original": "I want to learn how to construct a REST API in Python using Flask",
+    "enhanced": "Implement REST API in Python with Flask"
+  },
+  {
+    "original": "me how to in a segmentation fault debug a step-by-step",
+    "enhanced": "Write segmentation fault in C program"
+  },
+  {
+    "original": "How can I write a function to check if a string is a palindrome in Python?",
+    "enhanced": "Explain Python function to check palindrome string"
+  },
+  {
+    "original": "I need a detailed guide on setting up a Django project for beginners",
+    "enhanced": "Implement Django project for beginners"
+  },
+  {
+    "original": "Can you show me how to use regular expressions in email? to validate an JavaScript",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please present an example of a sorting algorithm implemented in C",
+    "enhanced": "Implement sorting algorithm in C"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m looking for a kindly way to parse JSON data in a Python script",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "What is the way to create a in detail simple GUI application using Tkinter in Python?",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "Can you illustrate the in detail concept of closures in JavaScript with an example?",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "I need help with writing a Python program to calculate the factorial of a number",
+    "enhanced": "Explain Python program for factorial calculation"
+  },
+  {
+    "original": "Please virtual me how to set comprehensive up a tell environment in Python for a project",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "I implement a please breadth-first search algorithm",
+    "enhanced": "Compare breadth-first search in Java"
+  },
+  {
+    "original": "Can you supply a code snippet for file comprehensive I/O operations in C++?",
+    "enhanced": "Debug C++ code for file I/O"
+  },
+  {
+    "original": "detail steps to step-by-step to use Docker to containerize a",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "Please tell me how to kindly a way to merge two sorted arrays in Java efficiently",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "How do I write a function to find the longest common substring in Python?",
+    "enhanced": "Set up Python function for longest common substring"
+  },
+  {
+    "original": "Please tell me how to give me a detailed explanation of how to multithreading use in Python?",
+    "enhanced": "Explain multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m struggling to understand how in implement a depth-first search to C++",
+    "enhanced": "Set up depth-first search in C++"
+  },
+  {
+    "original": "What please is the way to show me how to in a simple REST API create Node.js?",
+    "enhanced": "Create REST API in Node.js"
+  },
+  {
+    "original": "Please help me write a Python script to process CSV files",
+    "enhanced": "Optimize Python script to process CSV files"
+  },
+  {
+    "original": "can I use SQL to join multiple tables in a database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "I want to know ways to to develop a hash table in C",
+    "enhanced": "Implement hash table in C"
+  },
+  {
+    "original": "Can you step-by-step explain the difference between synchronous and asynchronous programming in JavaScript?",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please provide a Python script and connect to an API to",
+    "enhanced": "Write Python script to fetch API data"
+  },
+  {
+    "original": "I set up unit tests for a",
+    "enhanced": "Compare unit tests for Python function"
+  },
+  {
+    "original": "Can you help me understand how to use lambda functions in Python?",
+    "enhanced": "Write lambda functions in Python"
+  },
+  {
+    "original": "a guide kindly on how to create a simple game using Pygame in Python",
+    "enhanced": "Develop Pygame game in Python"
+  },
+  {
+    "original": "Show me how to optimize a Python script for performance",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "can I execute a queue data structure",
+    "enhanced": "Implement queue data structure in Java"
+  },
+  {
+    "original": "What is the way to provide an example of using promises step-by-step in JavaScript?",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "Please explain how to set up a CI/CD kindly Actions using GitHub pipeline",
+    "enhanced": "Compare CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "How do I step-by-step write a C++ program perform to matrix multiplication?",
+    "enhanced": "Optimize C++ program for matrix multiplication"
+  },
+  {
+    "original": "you show me how to handle file uploads in a Flask",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "I need help understanding steps to in detail to use pointers in C",
+    "enhanced": "Write pointers in C"
+  },
+  {
+    "original": "validate provide a JavaScript function to Please a phone kindly number",
+    "enhanced": "Set up JavaScript function to validate phone number"
+  },
+  {
+    "original": "Show me how to please provide of detailed quickly explanation a steps to to implement a binary search algorithm in Python?",
+    "enhanced": "Explain binary search implementation in Python"
+  },
+  {
+    "original": "How do I a step-by-step guide on writing a function to reverse a kindly linked list in C++",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "wrong you tell me what\u00e2\u20ac\u2122s Could with my Java code that\u00e2\u20ac\u2122s quickly supposed to sort an array?",
+    "enhanced": "Debug Java array sorting code"
+  },
+  {
+    "original": "I want to know method to to create a simple web server using Node.js with kindly detailed instructions",
+    "enhanced": "Write Node.js web server"
+  },
+  {
+    "original": "Please give me a  overview of object-oriented programming concepts in Java",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "How do I go about writing a Python script to scrape data from a please website?",
+    "enhanced": "Write Python web scraping script"
+  },
+  {
+    "original": "Can you help me understand the difference between please a stack and a queue in data structures?",
+    "enhanced": "Compare stack and queue data structures"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to figure out method to to use recursion to solve the Fibonacci sequence in JavaScript",
+    "enhanced": "Implement Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "Please provide please a code example for connecting to a MySQL database using PHP",
+    "enhanced": "Write PHP code to connect to MySQL database"
+  },
+  {
+    "original": "What is the best way in detail to optimize a SQL query for large datasets?",
+    "enhanced": "Optimize SQL query for large datasets"
+  },
+  {
+    "original": "I need assistance with file a bash step-by-step script to automate writing backups",
+    "enhanced": "Implement bash script for file backup automation"
+  },
+  {
+    "original": "Can you describe how to use Git step-by-step for version control in a collaborative project?",
+    "enhanced": "Implement Git for collaborative version control"
+  },
+  {
+    "original": "I want to learn how to implement a REST API in Python please using Flask",
+    "enhanced": "Develop REST API in Python with Flask"
+  },
+  {
+    "original": "Please tell me approach to to repair a segmentation fault in a C program",
+    "enhanced": "Debug segmentation fault in C program"
+  },
+  {
+    "original": "How a I write can function to kindly check if a string is a palindrome in Python?",
+    "enhanced": "Write Python function to check palindrome string"
+  },
+  {
+    "original": "I need a detailed guide on setting up a please Django project for beginners",
+    "enhanced": "Debug Django project for beginners"
+  },
+  {
+    "original": "algorithm provide an example of a sorting Please implemented in C",
+    "enhanced": "Describe sorting algorithm in C"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m looking for a way a parse please JSON data in to Python script",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "Show me how to kindly create a simple GUI application using Tkinter in Python?",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "Can you explain the concept of closures in JavaScript with an example?",
+    "enhanced": "Develop JavaScript closures with example"
+  },
+  {
+    "original": "Show me how to help with writing a Python program to calculate the kindly factorial of a number",
+    "enhanced": "Debug Python program for factorial calculation"
+  },
+  {
+    "original": "tell me approach to to set up a virtual environment in Python for a",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How can breadth-first implement a I search algorithm",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "I want to comprehensive know how to handle exceptions in a Python program",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "Can you comprehensive give a I/O snippet for file code operations in C++?",
+    "enhanced": "Write C++ code for file I/O"
+  },
+  {
+    "original": "Please explain how to use Docker to comprehensive containerize a Python application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "How do I a way to merge two comprehensive sorted arrays in Java efficiently",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "How do I write a function to find the longest common substring in",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "Can you give me a detailed explanation of ways to to use multithreading in in detail Python?",
+    "enhanced": "Implement multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m struggling to understand approach to to please implement a depth-first search in C++",
+    "enhanced": "Develop depth-first search in C++"
+  },
+  {
+    "original": "Can you sapproach to me approach to to create a simple REST API in Node.js? kindly",
+    "enhanced": "Create REST API in Node.js"
+  },
+  {
+    "original": "Please help me write a comprehensive Python script to process CSV",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "join can I use SQL to How multiple tables in a database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "I want to know method to to construct a hash table in C",
+    "enhanced": "Develop hash table in C"
+  },
+  {
+    "original": "Please tell me how to explain the difference between synchronous and asynchronous programming in JavaScript?",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please present a Python script to step-by-step connect to an API and fetch data",
+    "enhanced": "Develop Python script to fetch API data"
+  },
+  {
+    "original": "tell me how to set up unit tests for a",
+    "enhanced": "Set up unit tests for Python function"
+  },
+  {
+    "original": "Please tell me how to help me understand steps to to use lambda functions in Python?",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "need a guide on steps to to create a simple game using Pygame in Python",
+    "enhanced": "Create Pygame game in Python"
+  },
+  {
+    "original": "Please tell me how to quickly optimize a Python script for performance",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "How construct I can a queue data structure in Java?",
+    "enhanced": "Implement queue data structure in Java"
+  },
+  {
+    "original": "I please want to learn how to use regular expressions in Python for text processing",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "Please explain technique for please to set up a CI/CD pipeline using GitHub Actions",
+    "enhanced": "Optimize CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "How do I write a C++ program to perform matrix multiplication?",
+    "enhanced": "Optimize C++ program for matrix multiplication"
+  },
+  {
+    "original": "me how sapproach to to me approach to to handle file uploads in a Flask",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "I need pointers understanding how step-by-step to use help in C",
+    "enhanced": "Explain pointers in C"
+  },
+  {
+    "original": "Please provide a JavaScript function to validate please a phone number",
+    "enhanced": "Implement JavaScript function to validate phone number"
+  },
+  {
+    "original": "how to please provide a detailed explanation of how to implement a binary search step-by-step algorithm in Python?",
+    "enhanced": "Explain binary search implementation in Python"
+  },
+  {
+    "original": "need a guide on writing a function to reverse a linked list in",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me kindly what\u00e2\u20ac\u2122s wrong with my Java code that\u00e2\u20ac\u2122s supposed to sort an array?",
+    "enhanced": "Debug Java array sorting code"
+  },
+  {
+    "original": "I want to know how to create a simple kindly web server using Node.js with detailed instructions",
+    "enhanced": "Create Node.js web server"
+  },
+  {
+    "original": "Please give me a comprehensive overview of object-oriented step-by-step programming concepts in Java",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "I go about writing a Python script to scrape data from a",
+    "enhanced": "Optimize Python web scraping script"
+  },
+  {
+    "original": "Can you help me understand the difference between a stack and a queue in data structures?",
+    "enhanced": "Create stack and queue data structures"
+  },
+  {
+    "original": "Please deliver a code example for connecting to a please MySQL database using PHP",
+    "enhanced": "Explain PHP code to connect to MySQL database"
+  },
+  {
+    "original": "is the best way to optimize a SQL query for large datasets?",
+    "enhanced": "Optimize SQL query for large datasets"
+  },
+  {
+    "original": "Can you assistance with writing please a bash script to automate file backups",
+    "enhanced": "Write bash script for file backup automation"
+  },
+  {
+    "original": "explain how to use Git for version control in a collaborative project?",
+    "enhanced": "Explain Git for collaborative version control"
+  },
+  {
+    "original": "to learn steps to to code a REST API in Python step-by-step using",
+    "enhanced": "Implement REST API in Python with Flask"
+  },
+  {
+    "original": "Please tell me how to repair a segmentation fault in kindly a C program",
+    "enhanced": "Debug segmentation fault in C program"
+  },
+  {
+    "original": "How can I write a Python? to check if a string is a palindrome in function",
+    "enhanced": "Write Python function to check palindrome string"
+  },
+  {
+    "original": "Can you setting detailed guide on a up a Django project for beginners",
+    "enhanced": "Explain Django project for beginners"
+  },
+  {
+    "original": "do I show me how to please use regular expressions in JavaScript to validate",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please deliver an example of in detail a sorting algorithm builded in C",
+    "enhanced": "Implement sorting algorithm in C"
+  },
+  {
+    "original": "Show me how to create a simple please GUI application using Tkinter in Python?",
+    "enhanced": "Develop Tkinter GUI application in Python"
+  },
+  {
+    "original": "How do I explain the concept of closures in JavaScript with kindly an example?",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "How do I help with writing a Python program to calculate the factorial of a number",
+    "enhanced": "Implement Python program for factorial calculation"
+  },
+  {
+    "original": "me steps to in detail to set up a virtual environment in Python for",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How can I implement a breadth-first search algorithm in comprehensive Java?",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "I want to know method to to handle exceptions in a Python program",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "is kindly the way to supply a code snippet for file I/O operations in",
+    "enhanced": "Optimize C++ code for file I/O"
+  },
+  {
+    "original": "approach to to use Docker to containerize a Python",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "Show me how to a way to merge two sorted kindly arrays in Java efficiently",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "tell me how to function a write to find the longest common substring in",
+    "enhanced": "Implement Python function for longest common substring"
+  },
+  {
+    "original": "What is the way to give me a detailed explanation of to how use multithreading in Python?",
+    "enhanced": "Implement multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m struggling please to understand method to to implement a depth-first search in C++",
+    "enhanced": "Develop depth-first search in C++"
+  },
+  {
+    "original": "How do I show me how to create a simple REST API in Node.js?",
+    "enhanced": "Create REST API in Node.js"
+  },
+  {
+    "original": "Please please help me write a Python script to process CSV files",
+    "enhanced": "Compare Python script to process CSV files"
+  },
+  {
+    "original": "can I use SQL to join multiple tables in please a database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "to know approach to to build a hash table in",
+    "enhanced": "Compare hash table in C"
+  },
+  {
+    "original": "Can you explain step-by-step the difference between synchronous and asynchronous programming in JavaScript?",
+    "enhanced": "Optimize synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please give a Python script to connect to an please API and fetch data",
+    "enhanced": "Write Python script to fetch API data"
+  },
+  {
+    "original": "Can you set up unit tests for a Python function?",
+    "enhanced": "Set up unit tests for Python function"
+  },
+  {
+    "original": "Can you help quickly understand ways me to to use lambda functions in Python?",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "I need a guide on approach to to create a simple game using Pygame in Python",
+    "enhanced": "Create Pygame game in Python"
+  },
+  {
+    "original": "Please comprehensive tell me how to optimize a Python script for performance",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "How can I execute a queue data structure in Java?",
+    "enhanced": "Compare queue data structure in Java"
+  },
+  {
+    "original": "What is the way to provide an example of using promises in JavaScript?",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "I want to learn ways to to use comprehensive regular expressions in Python for text processing",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "Please explain approach kindly to to set up a CI/CD pipeline using GitHub Actions",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "Please tell me how to write a C++ program to perform matrix multiplication?",
+    "enhanced": "Write C++ program for matrix multiplication"
+  },
+  {
+    "original": "What is the way to sapproach to me approach to to handle file uploads in a",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "I need help understanding method in detail to to use pointers in C",
+    "enhanced": "Create pointers in C"
+  },
+  {
+    "original": "What is the way to please deliver a detailed explanation of how to code a binary Python? algorithm in search kindly",
+    "enhanced": "Describe binary search buildation in Python"
+  },
+  {
+    "original": "Can you a guide on writing a function to reverse a linked list in",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me what\u00e2\u20ac\u2122s wrong with my Java code that\u00e2\u20ac\u2122s in detail supposed to sort an array?",
+    "enhanced": "Create Java array sorting code"
+  },
+  {
+    "original": "I want to know how to create a simple web server using Node.js with detailed instructions",
+    "enhanced": "Implement Node.js web server"
+  },
+  {
+    "original": "Please give me in detail overview comprehensive a of object-oriented programming concepts",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "Please tell me how to go about writing a Python script to scrape data from a website?",
+    "enhanced": "Write Python web scraping script"
+  },
+  {
+    "original": "Can you help me understand the difference between a stack and a queue in data structures?",
+    "enhanced": "Develop stack and queue data structures"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to figure out to to use recursion comprehensive how solve the Fibonacci sequence in JavaScript",
+    "enhanced": "Describe Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "Please provide a for example code connecting to a MySQL database using PHP",
+    "enhanced": "Set up PHP code to connect to MySQL database"
+  },
+  {
+    "original": "I need assistance with writing in detail a script bash to automate file backups",
+    "enhanced": "Compare bash script for file backup automation"
+  },
+  {
+    "original": "Can you detail how to use Git for version control in a collaborative project?",
+    "enhanced": "Explain Git for collaborative version control"
+  },
+  {
+    "original": "to learn method to to implement comprehensive a REST API in Python using Flask",
+    "enhanced": "Implement REST API in Python with Flask"
+  },
+  {
+    "original": "Please tell me ways to to debug comprehensive a segmentation fault in a C program",
+    "enhanced": "Develop segmentation fault in C program"
+  },
+  {
+    "original": "How can I write a function to check if a string is a palindrome",
+    "enhanced": "Write Python function to check palindrome string"
+  },
+  {
+    "original": "is the way a a detailed guide on setting up to Django project",
+    "enhanced": "Set up Django project for beginners"
+  },
+  {
+    "original": "Can you show me how to use regular expressions in JavaScript kindly to validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please provide an kindly example of a sorting algorithm implemented in C",
+    "enhanced": "Implement sorting algorithm in C"
+  },
+  {
+    "original": "How do I create a simple GUI application using Tkinter in",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "I need explain the concept of closures in JavaScript quickly with",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "I need help with writing a of program to calculate please the factorial Python a number",
+    "enhanced": "Write Python program for factorial calculation"
+  },
+  {
+    "original": "I set comprehensive up a virtual environment in Python for a",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How can breadth-first execute a I search algorithm in Java?",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "want to step-by-step know ways to to handle exceptions in a",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "How do I provide a code snippet for file please I/O operations in C++?",
+    "enhanced": "Write C++ code for file I/O"
+  },
+  {
+    "original": "Please detail how to use Docker to containerize a Python application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "a way to merge two sorted arrays in Java efficiently",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "I implement find function to a the longest common substring",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "give me a detailed explanation of how to use multithreading in",
+    "enhanced": "Describe multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m struggling to understand how to build kindly a depth-first search in C++",
+    "enhanced": "Explain depth-first search in C++"
+  },
+  {
+    "original": "Please tell me how to sapproach to me approach to to create a simple REST kindly API in Node.js?",
+    "enhanced": "Write REST API in Node.js"
+  },
+  {
+    "original": "Please help me create a Python script to process CSV files",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "How can I use SQL to join multiple tables in a step-by-step database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "to know technique for to build a hash C in table",
+    "enhanced": "Implement hash table in C"
+  },
+  {
+    "original": "Can you explain the difference between synchronous and please asynchronous programming in JavaScript?",
+    "enhanced": "Write synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please provide a Python script to connect to an API and fetch data",
+    "enhanced": "Describe Python script to fetch API data"
+  },
+  {
+    "original": "the way to set up unit tests for a Python function?",
+    "enhanced": "Compare unit tests for Python function"
+  },
+  {
+    "original": "Can you help functions understand how to use lambda me in in detail Python?",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "I need a guide on technique for to create a simple game using Pygame in Python",
+    "enhanced": "Create Pygame game in Python"
+  },
+  {
+    "original": "tell me technique for to optimize script Python a",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "How can I develop a queue data structure in Java?",
+    "enhanced": "Implement queue data structure in Java"
+  },
+  {
+    "original": "Can you present quickly an example of using promises in JavaScript?",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "I comprehensive want to learn steps to to use regular expressions in Python for text processing",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "Please clarify approach to to set up a CI/CD pipeline using GitHub Actions",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "Show me to to write a C++ program how perform matrix multiplication?",
+    "enhanced": "Write C++ program for matrix multiplication"
+  },
+  {
+    "original": "uploads do I sways to me ways to to handle file How in a Flask application? in detail",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "What is the way to help understanding how to use pointers in step-by-step C",
+    "enhanced": "Debug pointers in C"
+  },
+  {
+    "original": "Please provide a JavaScript function to validate a",
+    "enhanced": "Write JavaScript function to validate phone number"
+  },
+  {
+    "original": "How comprehensive do I please offer a detailed explanation of how to implement a binary search algorithm in Python?",
+    "enhanced": "Create binary search implementation in Python"
+  },
+  {
+    "original": "need a step-by-step guide on writing a function to reverse a linked list in step-by-step C++",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "tell me what\u00e2\u20ac\u2122s wrong with my Java code that\u00e2\u20ac\u2122s supposed to sort",
+    "enhanced": "Compare Java array sorting code"
+  },
+  {
+    "original": "I want to know how to create a simple web kindly server using Node.js with detailed instructions",
+    "enhanced": "Create Node.js web server"
+  },
+  {
+    "original": "Please give me a  overview of object-oriented programming concepts in Java",
+    "enhanced": "Describe OOP concepts in Java"
+  },
+  {
+    "original": "What is the way to go about writing a Python script to scrape data from a website?",
+    "enhanced": "Write Python web scraping script"
+  },
+  {
+    "original": "Show me how to help me understand the difference between a stack and a queue in in detail data structures?",
+    "enhanced": "Implement stack and queue data structures"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to figure out approach to to use recursion to solve the Fibonacci sequence in JavaScript",
+    "enhanced": "Explain Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "Please provide a code example for connecting to a MySQL database using PHP",
+    "enhanced": "Debug PHP code to connect to MySQL database"
+  },
+  {
+    "original": "What is the best way to optimize a SQL query for large comprehensive datasets?",
+    "enhanced": "Set up SQL query for large datasets"
+  },
+  {
+    "original": "I need assistance with writing in detail a bash script to automate file backups",
+    "enhanced": "Implement bash script for file backup automation"
+  },
+  {
+    "original": "Can you explain method to to in Git for version control use a collaborative project?",
+    "enhanced": "Explain Git for collaborative version control"
+  },
+  {
+    "original": "want to learn technique for to implement a REST API in Python",
+    "enhanced": "Implement REST API in Python with Flask"
+  },
+  {
+    "original": "Please tell me approach to to debug a segmentation fault in a C program",
+    "enhanced": "Debug segmentation fault in C program"
+  },
+  {
+    "original": "How can I write a function to check if a step-by-step string is a palindrome in Python?",
+    "enhanced": "Implement Python function to check palindrome string"
+  },
+  {
+    "original": "I need a detailed guide on setting up a Django project for beginners kindly",
+    "enhanced": "Set up Django project for beginners"
+  },
+  {
+    "original": "Can you sways to me ways to to use regular expressions in JavaScript to validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please provide a example of an sorting algorithm implemented quickly in C",
+    "enhanced": "Implement sorting algorithm in C"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m looking for a way to parse JSON data in a Python comprehensive script",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "What is the way to create a simple GUI application kindly using Tkinter in Python?",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "Can an explain the concept of closures in JavaScript with you example? comprehensive",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "I need help with writing a Python kindly program a calculate the factorial of to number",
+    "enhanced": "Optimize Python program for factorial calculation"
+  },
+  {
+    "original": "Please set me how to tell up a virtual environment in Python for a comprehensive project",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How can I build a algorithm search breadth-first in Java?",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "I want to know method to to handle exceptions in a Python program",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "Can you present a code snippet for file I/O operations in C++?",
+    "enhanced": "Write C++ code for file I/O"
+  },
+  {
+    "original": "Please elucidate how to use Docker comprehensive to containerize a Python application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "Please tell me how to a way to merge two sorted arrays in Java efficiently comprehensive",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "How do I write comprehensive a function to find the longest common substring in Python?",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "Please tell me how to comprehensive give me a detailed explanation of how to use multithreading",
+    "enhanced": "Implement multithreading in Python"
+  },
+  {
+    "original": "struggling to understand how to develop a depth-first search in C++",
+    "enhanced": "Implement depth-first search in C++"
+  },
+  {
+    "original": "Can you step-by-step show me how Node.js? create a simple REST API in to",
+    "enhanced": "Implement REST API in Node.js"
+  },
+  {
+    "original": "help me write a Python in detail script to process",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "I use SQL to join multiple tables in",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "to know method to C execute a hash table in to",
+    "enhanced": "Explain hash table in C"
+  },
+  {
+    "original": "Can you detail the difference between synchronous and asynchronous programming in JavaScript?",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "How do I set up unit tests for quickly a Python function?",
+    "enhanced": "Set up unit tests for Python function"
+  },
+  {
+    "original": "please I help me understand steps to to use lambda functions in",
+    "enhanced": "Implement lambda functions in Python"
+  },
+  {
+    "original": "I need a guide on approach to to create a simple game using Pygame in Python",
+    "enhanced": "Develop Pygame game in Python"
+  },
+  {
+    "original": "Please steps me tell to to optimize a Python script for performance",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "How can I implement a queue data structure please in Java?",
+    "enhanced": "Implement queue data structure in Java"
+  },
+  {
+    "original": "Can you offer an example of using quickly promises in",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "want to learn how to use regular expressions in Python for quickly",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "explain approach to to GitHub in detail up a CI/CD pipeline using set",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "How do I develop a C++ program to step-by-step perform matrix multiplication?",
+    "enhanced": "Write C++ program for matrix multiplication"
+  },
+  {
+    "original": "show me how to handle file uploads in a Flask",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "I need step-by-step help understanding how to use pointers in C",
+    "enhanced": "Develop pointers in C"
+  },
+  {
+    "original": "Please present a JavaScript function to validate a phone please number",
+    "enhanced": "Write JavaScript function to validate phone number"
+  },
+  {
+    "original": "Can you  provide a detailed explanation of how to implement a binary search algorithm in Python?",
+    "enhanced": "Debug binary search implementation in Python"
+  },
+  {
+    "original": "What is the way to a step-by-step guide on writing a function to comprehensive reverse a linked list in C++",
+    "enhanced": "Optimize C++ function to reverse linked list"
+  },
+  {
+    "original": "I want to know method to to create a simple web server using Node.js with detailed instructions",
+    "enhanced": "Debug Node.js web server"
+  },
+  {
+    "original": "Please give me a comprehensive overview of object-oriented programming concepts in in detail Java",
+    "enhanced": "Optimize OOP concepts in Java"
+  },
+  {
+    "original": "Can you go about writing a Python script please to scrape data from a website?",
+    "enhanced": "Write Python web scraping script"
+  },
+  {
+    "original": "Can you kindly help me understand the difference between a stack and a queue in data structures?",
+    "enhanced": "Compare stack and queue data structures"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to figure out technique quickly for to use recursion to solve the Fibonacci sequence in JavaScript",
+    "enhanced": "Implement Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "Please present a code example for connecting to a MySQL database using PHP",
+    "enhanced": "Write PHP code to connect to MySQL database"
+  },
+  {
+    "original": "What is the best step-by-step way to optimize a SQL query for large datasets?",
+    "enhanced": "Optimize SQL query for large datasets"
+  },
+  {
+    "original": "do I assistance with script step-by-step a bash writing to automate",
+    "enhanced": "Write bash script for file backup automation"
+  },
+  {
+    "original": "Please tell me ways to to debug a segmentation fault in a please C program",
+    "enhanced": "Write segmentation fault in C program"
+  },
+  {
+    "original": "How can I code a function to check if quickly a string is a palindrome in Python?",
+    "enhanced": "Write Python function to check palindrome string"
+  },
+  {
+    "original": "I need a detailed guide on setting up a Django project for beginners",
+    "enhanced": "Write Django project for beginners"
+  },
+  {
+    "original": "Can you show me how to use regular expressions in JavaScript to validate",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please offer an example of a sorting algorithm implemented in",
+    "enhanced": "Implement sorting algorithm in C"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m looking for please a way to parse JSON data in a Python script",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "How do I create a simple GUI application using Tkinter in Python? step-by-step",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "Can you describe comprehensive the concept of closures in JavaScript with",
+    "enhanced": "Compare JavaScript closures with example"
+  },
+  {
+    "original": "I need help with writing a comprehensive Python program to calculate the factorial of a number",
+    "enhanced": "Write Python program for factorial calculation"
+  },
+  {
+    "original": "How can I algorithm a breadth-first search implement in Java?",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "What is the way to provide a code snippet for file I/O operations in C++?",
+    "enhanced": "Set up C++ code for file I/O"
+  },
+  {
+    "original": "Please illustrate how to Docker comprehensive use to containerize a Python application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "How do I a way to merge two sorted arrays in Java efficiently",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "How do function code a I to find the longest common substring in Python?",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "Can you give me a to explanation of how detailed use multithreading in Python?",
+    "enhanced": "Explain multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m struggling to understand how to execute a depth-first search in C++",
+    "enhanced": "Implement depth-first search in C++"
+  },
+  {
+    "original": "Can you show me how to create a simple REST API in step-by-step Node.js?",
+    "enhanced": "Create REST API in Node.js"
+  },
+  {
+    "original": "Please help me write a Python script to process CSV files",
+    "enhanced": "Optimize Python script to process CSV files"
+  },
+  {
+    "original": "How can I use SQL join to multiple tables in a database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "to know approach to to code a hash table in",
+    "enhanced": "Debug hash table in C"
+  },
+  {
+    "original": "I need step-by-step clarify the difference between synchronous and asynchronous programming in JavaScript?",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please provide a Python script to connect to an in detail API and fetch data",
+    "enhanced": "Write Python script to fetch API data"
+  },
+  {
+    "original": "I need set up tests unit for a Python function?",
+    "enhanced": "Set up unit tests for Python function"
+  },
+  {
+    "original": "Please understand me how to help me tell how to use lambda quickly functions in Python?",
+    "enhanced": "Compare lambda functions in Python"
+  },
+  {
+    "original": "I need a step-by-step guide on technique for to create a simple game using Pygame in Python",
+    "enhanced": "Develop Pygame game in Python"
+  },
+  {
+    "original": "I optimize script Python a",
+    "enhanced": "Create Python script performance"
+  },
+  {
+    "original": "How can I develop queue a in detail data structure in Java?",
+    "enhanced": "Implement queue data structure in Java"
+  },
+  {
+    "original": "Can you deliver an example of using please promises in JavaScript?",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "I want to learn use to how regular expressions in Python for text processing",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "Please describe how to set up a CI/CD pipeline using GitHub Actions in detail",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "How do I develop a C++ program to perform matrix multiplication?",
+    "enhanced": "Write C++ program for matrix multiplication"
+  },
+  {
+    "original": "Please tell me how to show me how to handle file uploads in a",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "I understanding help need technique for to use pointers in C",
+    "enhanced": "Explain pointers in C"
+  },
+  {
+    "original": "Please provide a JavaScript please function to validate a phone number",
+    "enhanced": "Write JavaScript function to validate phone number"
+  },
+  {
+    "original": "Please tell me how to  provide a detailed explanation of steps to to implement a binary search algorithm in Python?",
+    "enhanced": "Explain binary search implementation in Python"
+  },
+  {
+    "original": "I need a  guide on writing a function to reverse a linked list in C++",
+    "enhanced": "Compare C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me what\u00e2\u20ac\u2122s wrong with my Java code that\u00e2\u20ac\u2122s supposed to step-by-step sort an array?",
+    "enhanced": "Write Java array sorting code"
+  },
+  {
+    "original": "want to know how to create a simple web server using Node.js with detailed",
+    "enhanced": "Create Node.js web server"
+  },
+  {
+    "original": "Please give me overview a of object-oriented programming concepts in",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "How do I go about writing a Python script to step-by-step scrape data from a",
+    "enhanced": "Write Python web scraping script"
+  },
+  {
+    "original": "I need help me understand the difference between a stack kindly and a queue in data structures?",
+    "enhanced": "Compare stack and queue data structures"
+  },
+  {
+    "original": "trying comprehensive to figure out how to use recursion to solve the Fibonacci sequence in",
+    "enhanced": "Implement Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "Please present a code example for connecting to a MySQL database using PHP",
+    "enhanced": "Develop PHP code to connect to MySQL database"
+  },
+  {
+    "original": "What is comprehensive the best way to optimize a SQL query for large datasets?",
+    "enhanced": "Optimize SQL query for large datasets"
+  },
+  {
+    "original": "What is the way to assistance with writing a bash script to automate file backups",
+    "enhanced": "Create bash script for file backup automation"
+  },
+  {
+    "original": "to to clarify how how use Git for version control in a collaborative",
+    "enhanced": "Develop Git for collaborative version control"
+  },
+  {
+    "original": "Please tell me ways to to debug a segmentation fault in a C program step-by-step",
+    "enhanced": "Debug segmentation fault in C program"
+  },
+  {
+    "original": "How can I develop a function to check if a string is a palindrome in Python?",
+    "enhanced": "Write Python function to check palindrome string"
+  },
+  {
+    "original": "a detailed in detail guide on setting up a Django project for",
+    "enhanced": "Implement Django project for beginners"
+  },
+  {
+    "original": "Please tell me how to show me how to use regular expressions in JavaScript to validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please provide please an example of a sorting algorithm implemented in C",
+    "enhanced": "Implement sorting algorithm in C"
+  },
+  {
+    "original": "How do I create a simple GUI application using Tkinter in",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "Can you describe the concept of closures in JavaScript with an example?",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "Show me how to help with writing a Python program to calculate the factorial of a number",
+    "enhanced": "Implement Python program for factorial calculation"
+  },
+  {
+    "original": "me how to set up Python virtual environment in a for a",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How can I develop a breadth-first search algorithm in Java?",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "you provide a code snippet for file in detail I/O operations",
+    "enhanced": "Write C++ code for file I/O"
+  },
+  {
+    "original": "Please elucidate how to use Docker to step-by-step containerize a Python application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "you a way to merge two sorted arrays in Java",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "Show me how to write a function to find the longest common substring in Python?",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "Can you give me a detailed explanation of how to use multithreading kindly in Python?",
+    "enhanced": "Explain multithreading in Python"
+  },
+  {
+    "original": "struggling to understand how to construct a depth-first search in",
+    "enhanced": "Implement depth-first search in C++"
+  },
+  {
+    "original": "Please tell me how to sways to me ways to to create a simple REST API in Node.js?",
+    "enhanced": "Set up REST API in Node.js"
+  },
+  {
+    "original": "help me write a Python script to process CSV",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "How can I use SQL in detail to join multiple tables in a database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "I want to know how to implement a hash kindly table in C",
+    "enhanced": "Set up hash table in C"
+  },
+  {
+    "original": "Can you explain kindly the difference between synchronous and asynchronous programming in JavaScript?",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please provide a Python script to connect to an API and fetch data",
+    "enhanced": "Explain Python script to fetch API data"
+  },
+  {
+    "original": "How do I set up unit tests for kindly a Python function?",
+    "enhanced": "Set up unit tests for Python function"
+  },
+  {
+    "original": "I need help me understand how to use lambda functions in step-by-step Python?",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "I need a game on how to create a simple guide using Pygame in Python",
+    "enhanced": "Create Pygame game in Python"
+  },
+  {
+    "original": "What is the step-by-step way to optimize a Python script for performance",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "Please tell me how to offer an example of using promises in detail in JavaScript?",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "Please describe method to to set up a CI/CD pipeline using in detail GitHub Actions",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "do I write a C++ comprehensive program to perform matrix",
+    "enhanced": "Explain C++ program for matrix multiplication"
+  },
+  {
+    "original": "Can you show me how to handle file uploads in in detail a Flask application?",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "help understanding method to to use pointers",
+    "enhanced": "Explain pointers in C"
+  },
+  {
+    "original": "Please provide a JavaScript function to validate a phone number",
+    "enhanced": "Compare JavaScript function to validate phone number"
+  },
+  {
+    "original": "Please tell me how to please provide a detailed explanation of how to build a binary search algorithm in Python? in detail",
+    "enhanced": "Set up binary search buildation in Python"
+  },
+  {
+    "original": "Can in detail you a step-by-step guide on writing a function to reverse linked a list in C++",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me what\u00e2\u20ac\u2122s wrong with my Java code that\u00e2\u20ac\u2122s supposed to sort an array?",
+    "enhanced": "Describe Java array sorting code"
+  },
+  {
+    "original": "Please give me a  overview of object-oriented programming concepts in Java",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "What is the way to go about writing a Python script to scrape data from a website?",
+    "enhanced": "Develop Python web scraping script"
+  },
+  {
+    "original": "Please data me how to help me understand the difference between a please stack and a queue in tell structures?",
+    "enhanced": "Compare stack and queue data structures"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to quickly figure out approach to to use recursion to solve the Fibonacci sequence in JavaScript",
+    "enhanced": "Implement Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "database provide a code example for connecting please to a MySQL Please using PHP",
+    "enhanced": "Write PHP code to connect to MySQL database"
+  },
+  {
+    "original": "the best way to optimize a SQL for query large",
+    "enhanced": "Optimize SQL query for large datasets"
+  },
+  {
+    "original": "Please tell me how to assistance with writing a bash script to automate file step-by-step backups",
+    "enhanced": "Write bash script for file backup automation"
+  },
+  {
+    "original": "Please tell me how to explain how to use Git for version control in a collaborative comprehensive project?",
+    "enhanced": "Explain Git for collaborative version control"
+  },
+  {
+    "original": "What is to way the resolve a segmentation fault in a C program",
+    "enhanced": "Describe segmentation fault in C program"
+  },
+  {
+    "original": "How comprehensive can I write a function a check if to string is a palindrome in",
+    "enhanced": "Develop Python function to check palindrome string"
+  },
+  {
+    "original": "Can you a detailed detail in guide on setting up a Django project for beginners",
+    "enhanced": "Set up Django project for beginners"
+  },
+  {
+    "original": "What is the way to show me how to use regular expressions in JavaScript to validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please provide an example of a sorting in detail algorithm implemented in C",
+    "enhanced": "Debug sorting algorithm in C"
+  },
+  {
+    "original": "for a way to parse JSON data in a Python script",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "How do I create simple a GUI application using Tkinter in Python?",
+    "enhanced": "Describe Tkinter GUI application in Python"
+  },
+  {
+    "original": "describe the concept of closures in JavaScript an with",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "help comprehensive with writing a Python program to calculate the factorial of a number",
+    "enhanced": "Develop Python program for factorial calculation"
+  },
+  {
+    "original": "Please tell me steps to to set up a virtual environment in Python for a project",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "can I implement a breadth-first search algorithm in Java?",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "I want to handle how to know exceptions in a Python program",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "you provide a code snippet for file I/O operations",
+    "enhanced": "Debug C++ code for file I/O"
+  },
+  {
+    "original": "Please detail how to use Docker to containerize Python a application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "need a way to merge two sorted step-by-step arrays in Java efficiently",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "Please tell me how to develop a function to find the longest common substring",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "Can comprehensive you give me a detailed explanation of how to use multithreading in Python?",
+    "enhanced": "Set up multithreading in Python"
+  },
+  {
+    "original": "Can you smethod to me method to to create a simple REST API in Node.js?",
+    "enhanced": "Compare REST API in Node.js"
+  },
+  {
+    "original": "help me create a Python script to process CSV",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "multiple kindly can I use SQL to join How tables in",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "to know how to build a hash table",
+    "enhanced": "Implement hash table in C"
+  },
+  {
+    "original": "Please tell me how to clarify the difference between synchronous and asynchronous programming in JavaScript? step-by-step",
+    "enhanced": "Create synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please provide a Python script to connect to an API quickly and fetch data",
+    "enhanced": "Write Python script to fetch API data"
+  },
+  {
+    "original": "me how to set in detail up unit tests for a",
+    "enhanced": "Set up unit tests for Python function"
+  },
+  {
+    "original": "Please tell game how to a guide step-by-step on how to create a simple me using Pygame in Python",
+    "enhanced": "Compare Pygame game in Python"
+  },
+  {
+    "original": "Please tell me method to to optimize a Python script in detail for performance",
+    "enhanced": "Write Python script performance"
+  },
+  {
+    "original": "How can I execute a step-by-step queue data structure in Java?",
+    "enhanced": "Implement queue data structure in Java"
+  },
+  {
+    "original": "I want to learn how to regular use quickly expressions in Python for text processing",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "technique for to set up a CI/CD pipeline using",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "Can you ssteps to me steps to to handle file uploads in a Flask application?",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "I need help understanding approach to comprehensive to use pointers in C",
+    "enhanced": "Explain pointers in C"
+  },
+  {
+    "original": "Please kindly deliver a JavaScript function to validate a phone number",
+    "enhanced": "Write JavaScript function to validate phone number"
+  },
+  {
+    "original": "is the way to provide a detailed explanation of how to implement a binary search algorithm",
+    "enhanced": "Explain binary search implementation in Python"
+  },
+  {
+    "original": "Can you a  guide on writing a function to reverse a linked list in C++",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me what\u00e2\u20ac\u2122s wrong with my Java code that\u00e2\u20ac\u2122s supposed to sort in detail an array?",
+    "enhanced": "Debug Java array sorting code"
+  },
+  {
+    "original": "I want comprehensive to know how to create a simple web server using Node.js with detailed instructions",
+    "enhanced": "Create Node.js web server"
+  },
+  {
+    "original": "Please give me a overview of object-oriented programming concepts in",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "tell me how to go about writing a Python script to scrape data from a website?",
+    "enhanced": "Write Python web scraping script"
+  },
+  {
+    "original": "What is the way to help me please understand the difference between a stack and a queue in data structures?",
+    "enhanced": "Compare stack and queue data structures"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to figure out ways to to use recursion to solve the Fibonacci sequence in JavaScript",
+    "enhanced": "Implement Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "deliver a code example for connecting to a MySQL database using PHP",
+    "enhanced": "Write PHP code to connect to MySQL database"
+  },
+  {
+    "original": "Please tell me how to assistance with writing a bash script to automate file backups",
+    "enhanced": "Write bash script for file backup automation"
+  },
+  {
+    "original": "Can you explain steps to to use a for version control in Git collaborative project? step-by-step",
+    "enhanced": "Debug Git for collaborative version control"
+  },
+  {
+    "original": "want to learn how to implement a REST API in Python using",
+    "enhanced": "Implement REST API in Python with Flask"
+  },
+  {
+    "original": "Please tell me steps to to debug a segmentation fault in a C program",
+    "enhanced": "Describe segmentation fault in C program"
+  },
+  {
+    "original": "How can I code a function to check if a string is a palindrome in Python?",
+    "enhanced": "Write Python function to check palindrome string"
+  },
+  {
+    "original": "What step-by-step is the way to a detailed guide on setting up a Django project for beginners",
+    "enhanced": "Optimize Django project for beginners"
+  },
+  {
+    "original": "Please tell me how to smethod to me method to to use quickly regular expressions in JavaScript to validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please provide an example of a sorting algorithm codeed in C",
+    "enhanced": "Create sorting algorithm in C"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m looking kindly for a way to parse JSON data in a Python script",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "Please tell me how to illustrate the concept of closures in JavaScript with an",
+    "enhanced": "Optimize JavaScript closures with example"
+  },
+  {
+    "original": "do I help with writing a Python program to calculate the factorial of a",
+    "enhanced": "Debug Python program for factorial calculation"
+  },
+  {
+    "original": "Please tell me please to set up a virtual environment in Python how for a project",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "can I implement a breadth-first search algorithm in Java?",
+    "enhanced": "Compare breadth-first search in Java"
+  },
+  {
+    "original": "want to know approach to to handle exceptions in a Python program",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "C++? you supply a code snippet for file I/O operations in Can",
+    "enhanced": "Debug C++ code for file I/O"
+  },
+  {
+    "original": "Please explain approach to to use Docker to containerize a Python application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "Can you a way to merge two sorted arrays in Java efficiently",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "How do I write a function to find the longest common substring in Python?",
+    "enhanced": "Optimize Python function for longest common substring"
+  },
+  {
+    "original": "Can you give me a detailed explanation of how to use multithreading in detail in Python?",
+    "enhanced": "Explain multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m kindly struggling to understand how to code a depth-first search in C++",
+    "enhanced": "Optimize depth-first search in C++"
+  },
+  {
+    "original": "Can you show me how to create API simple REST a in Node.js?",
+    "enhanced": "Explain REST API in Node.js"
+  },
+  {
+    "original": "Please help me write a Python script to process CSV",
+    "enhanced": "Set up Python script to process CSV files"
+  },
+  {
+    "original": "How a I use SQL to join multiple tables in can database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "I want to know ways to to build a hash table in quickly C",
+    "enhanced": "Implement hash table in C"
+  },
+  {
+    "original": "Can you illustrate the difference between synchronous and asynchronous programming in JavaScript?",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "offer a Python script to connect to an API and fetch",
+    "enhanced": "Write Python script to fetch API data"
+  },
+  {
+    "original": "Show comprehensive me how to help me understand how to use lambda functions in Python?",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "Can you a guide on ways to to comprehensive create a simple game using Pygame in Python",
+    "enhanced": "Create Pygame game in Python"
+  },
+  {
+    "original": "Please tell me how to optimize a Python script for performance in detail",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "I construct a queue data structure in",
+    "enhanced": "Implement queue data structure in Java"
+  },
+  {
+    "original": "you present an in of using promises example JavaScript?",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "I want to learn how to please use regular expressions in Python for text",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "Please clarify how to set up a CI/CD step-by-step pipeline using GitHub Actions",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "How do I write a C++ comprehensive program to perform matrix multiplication?",
+    "enhanced": "Write C++ program for matrix multiplication"
+  },
+  {
+    "original": "smethod to me method to to handle file uploads in a Flask comprehensive application?",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "I need help how understanding to use pointers in C",
+    "enhanced": "Explain pointers in C"
+  },
+  {
+    "original": "Can you please provide a detailed comprehensive explanation of how to develop a binary search algorithm in Python?",
+    "enhanced": "Explain binary search constructation in Python"
+  },
+  {
+    "original": "I need a comprehensive step-by-step guide on writing a function to reverse a linked list in C++",
+    "enhanced": "Optimize C++ function to reverse linked list"
+  },
+  {
+    "original": "Java tell me what\u00e2\u20ac\u2122s wrong with my you code that\u00e2\u20ac\u2122s supposed to sort an kindly array?",
+    "enhanced": "Debug Java array sorting code"
+  },
+  {
+    "original": "I want to know method with to create a simple web server using Node.js to detailed instructions",
+    "enhanced": "Create Node.js web server"
+  },
+  {
+    "original": "Please give me a comprehensive overview of step-by-step object-oriented programming concepts",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "How do I go about writing comprehensive a Python script to scrape data from a website?",
+    "enhanced": "Implement Python web scraping script"
+  },
+  {
+    "original": "to figure out how please to use recursion to solve the Fibonacci sequence",
+    "enhanced": "Implement Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "What optimize the best comprehensive way to is a SQL query for large",
+    "enhanced": "Describe SQL query for large datasets"
+  },
+  {
+    "original": "I need assistance with writing a bash script to automate file backups quickly",
+    "enhanced": "Write bash script for file backup automation"
+  },
+  {
+    "original": "Can you clarify how to use Git for version control in a collaborative project?",
+    "enhanced": "Write Git for collaborative version control"
+  },
+  {
+    "original": "I want to learn method to to implement a REST API in Python using Flask",
+    "enhanced": "Explain REST API in Python with Flask"
+  },
+  {
+    "original": "tell me technique for to debug a segmentation fault in a please",
+    "enhanced": "Create segmentation fault in C program"
+  },
+  {
+    "original": "How can I create kindly a function to check if a string is a palindrome in Python?",
+    "enhanced": "Write Python function to check palindrome string"
+  },
+  {
+    "original": "I a detailed guide up setting on a Django project",
+    "enhanced": "Set up Django project for beginners"
+  },
+  {
+    "original": "an example of a sorting algorithm implemented in C",
+    "enhanced": "Implement sorting algorithm in C"
+  },
+  {
+    "original": "looking for a way to parse JSON data in a Python",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "Please tell me how to create a simple GUI application using Tkinter in Python?",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "Can in detail you explain the concept of closures in JavaScript with an example?",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "I need help with writing a Python step-by-step program to calculate of factorial the a number",
+    "enhanced": "Write Python program for factorial calculation"
+  },
+  {
+    "original": "Please tell me how to set up a project environment in Python for a virtual",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How in detail can I implement a breadth-first search algorithm in Java?",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "I want to know method to to handle exceptions in a Python program in detail",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "you present in code snippet for file I/O operations a C++?",
+    "enhanced": "Write C++ code for file I/O"
+  },
+  {
+    "original": "Please illustrate technique step-by-step for to use Docker to containerize a",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "I need a way to merge two sorted arrays in",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "What is the way to build quickly a function to find the longest common substring in Python?",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "you give me a detailed explanation of method multithreading to use to",
+    "enhanced": "Optimize multithreading in Python"
+  },
+  {
+    "original": "struggling to understand how to implement a depth-first search in",
+    "enhanced": "Describe depth-first search in C++"
+  },
+  {
+    "original": "Can you smethod to me method to to create a simple REST API in Node.js?",
+    "enhanced": "Create REST API in Node.js"
+  },
+  {
+    "original": "Please quickly help me develop a Python script to process CSV",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "How can I use SQL to join multiple tables in a step-by-step database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "I want to know approach please to to implement in hash table a C",
+    "enhanced": "Implement hash table in C"
+  },
+  {
+    "original": "Can you explain the difference between synchronous and asynchronous programming in JavaScript? comprehensive",
+    "enhanced": "Develop synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please provide a Python script to connect to an API and fetch data",
+    "enhanced": "Describe Python script to fetch API data"
+  },
+  {
+    "original": "kindly set up unit tests for a",
+    "enhanced": "Optimize unit tests for Python function"
+  },
+  {
+    "original": "Can you help me understand steps to to use lambda functions in Python?",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "Please tell me how to a guide on how comprehensive to create Python simple game using Pygame in a",
+    "enhanced": "Create Pygame game in Python"
+  },
+  {
+    "original": "Please me tell ways to to optimize a Python script",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "queue construct a I data structure in please Java?",
+    "enhanced": "Set up queue data structure in Java"
+  },
+  {
+    "original": "is the way to present an example of using promises in",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "Please explain method to to set up a quickly CI/CD pipeline using GitHub Actions",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "C++ the way to write a is program to perform",
+    "enhanced": "Describe C++ program for matrix multiplication"
+  },
+  {
+    "original": "Can you help understanding how to use pointers comprehensive in C",
+    "enhanced": "Explain pointers in C"
+  },
+  {
+    "original": "provide a JavaScript function to validate a phone",
+    "enhanced": "Compare JavaScript function to validate phone number"
+  },
+  {
+    "original": "Please tell please me how to please deliver a detailed explanation of how to build a binary search algorithm in Python?",
+    "enhanced": "Explain binary search developation in Python"
+  },
+  {
+    "original": "How do I a step-by-step guide on writing a function to reverse quickly a linked list in C++",
+    "enhanced": "Describe C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me what\u00e2\u20ac\u2122s wrong with my Java code that\u00e2\u20ac\u2122s supposed in detail to sort an array?",
+    "enhanced": "Write Java array sorting code"
+  },
+  {
+    "original": "I want to know technique for to create a simple web server using comprehensive Node.js with detailed",
+    "enhanced": "Create Node.js web server"
+  },
+  {
+    "original": "Please give me a comprehensive overview of object-oriented in detail programming concepts in",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "Show me how to go in detail about writing a Python script to scrape data from a website?",
+    "enhanced": "Write Python web scraping script"
+  },
+  {
+    "original": "Can you help me understand the difference between a stack comprehensive and a queue in data structures?",
+    "enhanced": "Compare stack and queue data structures"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to figure out steps to to use recursion to solve the Fibonacci sequence in detail in JavaScript",
+    "enhanced": "Debug Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "provide a code example for connecting to a MySQL database",
+    "enhanced": "Write PHP code to connect to MySQL database"
+  },
+  {
+    "original": "I need assistance with writing a bash script to please automate file backups",
+    "enhanced": "Describe bash script for file backup automation"
+  },
+  {
+    "original": "How do I explain how to use Git for version control in a collaborative project?",
+    "enhanced": "Write Git for collaborative version control"
+  },
+  {
+    "original": "I want to learn approach to to implement a REST API quickly in Python using Flask",
+    "enhanced": "Implement REST API in Python with Flask"
+  },
+  {
+    "original": "Please tell in detail me ways to to debug a segmentation fault in a C program",
+    "enhanced": "Debug segmentation fault in C program"
+  },
+  {
+    "original": "is the way to a detailed guide on setting up a Django project for",
+    "enhanced": "Set up Django project for beginners"
+  },
+  {
+    "original": "How do I show me how to use regular expressions step-by-step in JavaScript to validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "C provide an example of a sorting algorithm implemented in Please",
+    "enhanced": "Implement sorting algorithm in C"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m looking for comprehensive a way to parse JSON data in a Python script",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "How do I create a simple GUI application using Tkinter in Python?",
+    "enhanced": "Compare Tkinter GUI application in Python"
+  },
+  {
+    "original": "Please tell me how to explain the concept of closures in JavaScript with an example?",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "I need help with writing a Python program to quickly calculate the factorial of a",
+    "enhanced": "Write Python program for factorial calculation"
+  },
+  {
+    "original": "Please tell me ways to to set up a virtual environment in Python for a project quickly",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How can I implement a Java? search algorithm in breadth-first",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "I want to know how to handle exceptions in a",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "Can you provide a code I/O snippet for file kindly operations in C++?",
+    "enhanced": "Debug C++ code for file I/O"
+  },
+  {
+    "original": "How do I develop a function to find the longest common substring in Python?",
+    "enhanced": "Optimize Python function for longest common substring"
+  },
+  {
+    "original": "What is the way to give me a detailed explanation please of how to use multithreading in Python?",
+    "enhanced": "Explain multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m struggling to understand how to construct a depth-first search in quickly C++",
+    "enhanced": "Set up depth-first search in C++"
+  },
+  {
+    "original": "What is the way to ssteps to me steps to to create a simple REST in detail API in Node.js?",
+    "enhanced": "Compare REST API in Node.js"
+  },
+  {
+    "original": "Please help me step-by-step write a Python script to process",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "How can I use SQL kindly to join multiple tables in a database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "I want to know how to implement a hash table in C",
+    "enhanced": "Develop hash table in C"
+  },
+  {
+    "original": "explain the difference between synchronous comprehensive and asynchronous programming in",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please deliver a step-by-step Python script to connect to an API and fetch data",
+    "enhanced": "Write Python script to fetch API data"
+  },
+  {
+    "original": "Can you help lambda understand in detail how to use me functions in Python?",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "I need a guide create on method to to comprehensive a simple game using Pygame in Python",
+    "enhanced": "Implement Pygame game in Python"
+  },
+  {
+    "original": "I need optimize a Python script in detail for",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "can I code a queue data structure",
+    "enhanced": "Set up queue data structure in Java"
+  },
+  {
+    "original": "to learn method to to use regular Python in expressions for text processing",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "kindly ways to to set up a CI/CD pipeline using",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "Please tell me how to write a in detail C++ program to perform matrix multiplication?",
+    "enhanced": "Write C++ program for matrix multiplication"
+  },
+  {
+    "original": "how to show me how to handle file uploads in in detail a",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "I need help understanding method to to use pointers kindly in C",
+    "enhanced": "Set up pointers in C"
+  },
+  {
+    "original": "a JavaScript step-by-step function to validate a phone number",
+    "enhanced": "Debug JavaScript function to validate phone number"
+  },
+  {
+    "original": "Can you  provide a detailed explanation of how to implement a binary search algorithm in Python?",
+    "enhanced": "Describe binary search implementation in Python"
+  },
+  {
+    "original": "I need a  guide on writing a function to reverse a linked list in C++",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "you tell me what\u00e2\u20ac\u2122s wrong with my Java code that\u00e2\u20ac\u2122s supposed to sort an",
+    "enhanced": "Set up Java array sorting code"
+  },
+  {
+    "original": "create want to know technique for to I a simple web server using Node.js with in detail detailed instructions",
+    "enhanced": "Implement Node.js web server"
+  },
+  {
+    "original": "Please give quickly me a comprehensive overview of object-oriented programming concepts in Java",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "How do I step-by-step go about writing a Python script to scrape data from a website?",
+    "enhanced": "Implement Python web scraping script"
+  },
+  {
+    "original": "you help me understand the difference between a stack and a queue in data structures?",
+    "enhanced": "Develop stack and queue data structures"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to quickly figure out how to use recursion to solve the Fibonacci sequence in JavaScript",
+    "enhanced": "Implement Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "Please provide a code example for connecting to a MySQL database using in detail PHP",
+    "enhanced": "Debug PHP code to connect to MySQL database"
+  },
+  {
+    "original": "What is the best way to optimize a SQL query for large datasets?",
+    "enhanced": "Write SQL query for large datasets"
+  },
+  {
+    "original": "tell me how to assistance with writing a bash script to automate file backups",
+    "enhanced": "Write bash script for file backup automation"
+  },
+  {
+    "original": "explain how to version Git quickly for use control in a collaborative",
+    "enhanced": "Optimize Git for collaborative version control"
+  },
+  {
+    "original": "I want to learn how to implement a REST API in Python using Flask",
+    "enhanced": "Optimize REST API in Python with Flask"
+  },
+  {
+    "original": "Please tell me technique for to debug a kindly segmentation fault in a C program",
+    "enhanced": "Compare segmentation fault in C program"
+  },
+  {
+    "original": "How can I step-by-step write a function to check if a string is a palindrome in Python?",
+    "enhanced": "Explain Python function to check palindrome string"
+  },
+  {
+    "original": "I quickly a detailed guide on need setting up a Django project for beginners",
+    "enhanced": "Set up Django project for beginners"
+  },
+  {
+    "original": "How do I sways to me ways in detail to to use regular expressions in JavaScript to validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "an sorting of a example algorithm implemented in",
+    "enhanced": "Implement sorting algorithm in C"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m looking for a way data parse JSON to in a Python script",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "Can you create a simple GUI application using Tkinter in Python?",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "do I with the concept of closures in JavaScript explain",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "Please tell me how to help with writing a Python program to calculate the factorial of a number",
+    "enhanced": "Write Python program for factorial calculation"
+  },
+  {
+    "original": "Please to me steps tell to set up a virtual environment in Python for a project",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How in I build a breadth-first search algorithm can quickly Java?",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "I want to comprehensive know handle to how exceptions in a Python program",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "I a provide need code snippet for file I/O operations in C++?",
+    "enhanced": "Write C++ code for file I/O"
+  },
+  {
+    "original": "Please clarify how to use Docker to containerize quickly a Python application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "Can you a way to merge two sorted arrays in Java efficiently",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "Please tell me how to write a function to find the quickly longest common substring in Python?",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "What is the way to give me a detailed explanation of ways to to use multithreading in Python?",
+    "enhanced": "Describe multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m struggling to understand how to implement a depth-first search in C++",
+    "enhanced": "Create depth-first search in C++"
+  },
+  {
+    "original": "Please tell me how to show me how to create a simple REST API in Node.js?",
+    "enhanced": "Create REST API in Node.js"
+  },
+  {
+    "original": "Please help me construct a Python script to process CSV files",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "How can tables use SQL quickly to join multiple I in a database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "explain the comprehensive difference between synchronous and asynchronous programming",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please give a Python script to connect to an API and fetch quickly data",
+    "enhanced": "Optimize Python script to fetch API data"
+  },
+  {
+    "original": "I need set comprehensive up unit tests for a Python function?",
+    "enhanced": "Explain unit tests for Python function"
+  },
+  {
+    "original": "Can you help quickly me understand method to to use lambda functions in",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "a guide on how to create a simple please game using Pygame",
+    "enhanced": "Create Pygame game in Python"
+  },
+  {
+    "original": "Please tell me steps to to optimize a Python script for performance",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "How can I develop a queue data structure in Java?",
+    "enhanced": "Create queue data structure in Java"
+  },
+  {
+    "original": "do I deliver an example of using promises",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "I want to text how to please use regular expressions in Python for learn processing",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "Please illustrate technique for kindly to set up a CI/CD pipeline using GitHub Actions",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "me how to write a C++ program to perform matrix multiplication?",
+    "enhanced": "Write C++ program for matrix multiplication"
+  },
+  {
+    "original": "Can you stechnique for me technique for to handle file uploads in a Flask application?",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "tell me how to help understanding how to use pointers in C",
+    "enhanced": "Explain pointers in C"
+  },
+  {
+    "original": "Please step-by-step provide a JavaScript function to validate a phone number",
+    "enhanced": "Write JavaScript function to validate phone number"
+  },
+  {
+    "original": "you please supply a detailed explanation quickly of in to implement a binary search algorithm how",
+    "enhanced": "Describe binary search implementation in Python"
+  },
+  {
+    "original": "I need a  guide on writing a function to reverse a linked list in C++",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me what\u00e2\u20ac\u2122s wrong with my Java code that\u00e2\u20ac\u2122s supposed to sort an array?",
+    "enhanced": "Develop Java array sorting code"
+  },
+  {
+    "original": "I want to know approach to to create a simple web server using Node.js with detailed instructions",
+    "enhanced": "Create Node.js web server"
+  },
+  {
+    "original": "Please give me a  overview of object-oriented programming concepts in Java",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "I need go quickly about writing a Python script to scrape data from a website?",
+    "enhanced": "Optimize Python web scraping script"
+  },
+  {
+    "original": "How do I help me understand the difference between a stack and a queue in data structures?",
+    "enhanced": "Compare stack and queue data structures"
+  },
+  {
+    "original": "in trying to figure out approach to to use recursion to I\u00e2\u20ac\u2122m detail solve the Fibonacci sequence in JavaScript",
+    "enhanced": "Compare Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "a step-by-step code example for connecting to a MySQL database",
+    "enhanced": "Develop PHP code to connect to MySQL database"
+  },
+  {
+    "original": "What is the comprehensive best way to optimize a SQL query for large",
+    "enhanced": "Optimize SQL query for large datasets"
+  },
+  {
+    "original": "Please tell me how to comprehensive assistance with writing a bash script to automate file backups",
+    "enhanced": "Explain bash script for file backup automation"
+  },
+  {
+    "original": "What is the way to detail how to use Git for version control in a collaborative project?",
+    "enhanced": "Explain Git for collaborative version control"
+  },
+  {
+    "original": "I want to learn how to code a REST API in Python using Flask",
+    "enhanced": "Optimize REST API in Python with Flask"
+  },
+  {
+    "original": "Can you troubleshoot a segmentation fault in in detail a C program",
+    "enhanced": "Debug segmentation fault in C program"
+  },
+  {
+    "original": "How can I write a function to check if a string is a palindrome in Python?",
+    "enhanced": "Compare Python function to check palindrome string"
+  },
+  {
+    "original": "How do I a detailed guide on setting up a Django project for beginners",
+    "enhanced": "Set up Django project for beginners"
+  },
+  {
+    "original": "Can you show me how to use regular expressions in JavaScript to comprehensive validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please provide please an example of a sorting algorithm implemented in C",
+    "enhanced": "Explain sorting algorithm in C"
+  },
+  {
+    "original": "for a way to parse in detail JSON data in a Python",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "I need create quickly a simple GUI application using Tkinter in Python?",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "Can you elucidate kindly the concept of closures in JavaScript with an example?",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "How do I help with writing a Python program to calculate the factorial please of a number",
+    "enhanced": "Write Python program for factorial calculation"
+  },
+  {
+    "original": "Please tell me ways to to set up a virtual environment in Python for a project",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How can step-by-step I implement a breadth-first search algorithm in Java?",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "I want kindly to know technique for to handle exceptions in a Python program",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "How do quickly I deliver a code snippet for file I/O operations in C++?",
+    "enhanced": "Set up C++ code for file I/O"
+  },
+  {
+    "original": "explain steps to to please use Docker to containerize a",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "Can you a way to merge two sorted arrays in Java efficiently comprehensive",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "Can you build a function to find the longest comprehensive common substring in Python?",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "Show me quickly how to give me a detailed explanation of how to use multithreading in Python?",
+    "enhanced": "Write multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m step-by-step struggling to understand ways to to implement a depth-first search in C++",
+    "enhanced": "Write depth-first search in C++"
+  },
+  {
+    "original": "How do I show me how kindly to create a simple REST API in Node.js?",
+    "enhanced": "Explain REST API in Node.js"
+  },
+  {
+    "original": "me implement a Python script to process CSV files",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "How can I use kindly SQL to join multiple tables in a database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "I want to know how to build a hash table in",
+    "enhanced": "Develop hash table in C"
+  },
+  {
+    "original": "How do I explain the difference between synchronous and asynchronous programming in JavaScript? comprehensive",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Show me how to set up unit a for tests Python function?",
+    "enhanced": "Set up unit tests for Python function"
+  },
+  {
+    "original": "Please tell me how to help me understand how to use lambda functions in Python?",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "I need a guide on how to kindly create a simple game using Pygame in Python",
+    "enhanced": "Create Pygame game in Python"
+  },
+  {
+    "original": "Please tell me ways to to optimize a Python script for performance",
+    "enhanced": "Develop Python script performance"
+  },
+  {
+    "original": "How do I offer kindly an example of using promises in JavaScript?",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "to learn how to use quickly regular expressions in Python for",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "Please explain how to set up a CI/CD pipeline using GitHub comprehensive Actions",
+    "enhanced": "Implement CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "What way the is to write a C++ program to perform matrix multiplication?",
+    "enhanced": "Write C++ program for matrix multiplication"
+  },
+  {
+    "original": "Please tell me how to help understanding how to use pointers",
+    "enhanced": "Describe pointers in C"
+  },
+  {
+    "original": "Please provide a step-by-step JavaScript function to validate a phone number",
+    "enhanced": "Write JavaScript function to validate phone number"
+  },
+  {
+    "original": "I please need please provide a detailed explanation of how to build a binary search algorithm in",
+    "enhanced": "Explain binary search developation in Python"
+  },
+  {
+    "original": "What is the way to a  guide on writing a function to reverse a linked list in C++",
+    "enhanced": "Compare C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me what\u00e2\u20ac\u2122s step-by-step wrong with my Java code that\u00e2\u20ac\u2122s supposed to sort an array?",
+    "enhanced": "Optimize Java array sorting code"
+  },
+  {
+    "original": "I want to know how to create please a simple web server using Node.js with detailed instructions",
+    "enhanced": "Create Node.js web server"
+  },
+  {
+    "original": "Please give me a  overview of object-oriented programming concepts in Java",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "Please tell me how to go about writing a Python script to scrape data from a website?",
+    "enhanced": "Write Python web scraping script"
+  },
+  {
+    "original": "help me understand the difference between a stack and a comprehensive queue in",
+    "enhanced": "Compare stack and queue data structures"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to figure out how to use recursion to solve the Fibonacci sequence in JavaScript",
+    "enhanced": "Write Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "provide a code example for connecting to a MySQL database using PHP",
+    "enhanced": "Optimize PHP code to connect to MySQL database"
+  },
+  {
+    "original": "What is the best way to quickly optimize a SQL query for large datasets?",
+    "enhanced": "Optimize SQL query for large datasets"
+  },
+  {
+    "original": "I need file with writing a bash script to automate assistance backups",
+    "enhanced": "Write bash script for file backup automation"
+  },
+  {
+    "original": "is the way to explain Git to to use method for version control in a collaborative",
+    "enhanced": "Set up Git for collaborative version control"
+  },
+  {
+    "original": "I want to learn in detail how to develop a REST API in Python using Flask",
+    "enhanced": "Implement REST API in Python with Flask"
+  },
+  {
+    "original": "Please tell me steps to to resolve a segmentation fault in a C program",
+    "enhanced": "Implement segmentation fault in C program"
+  },
+  {
+    "original": "can I create a function to check if a in detail string is a palindrome",
+    "enhanced": "Create Python function to check palindrome string"
+  },
+  {
+    "original": "Can you a detailed please guide on setting up a Django project for beginners",
+    "enhanced": "Set up Django project for beginners"
+  },
+  {
+    "original": "What is the way to in detail show me how to use regular expressions in JavaScript to validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please provide an quickly of a sorting algorithm implemented in C example",
+    "enhanced": "Optimize sorting algorithm in C"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m looking step-by-step for a way to parse JSON data in a Python script",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "Can you create a simple GUI application using Tkinter",
+    "enhanced": "Optimize Tkinter GUI application in Python"
+  },
+  {
+    "original": "I need help with writing a Python program to a calculate the factorial of please number",
+    "enhanced": "Optimize Python program for factorial calculation"
+  },
+  {
+    "original": "Please tell me a for to set up technique virtual environment in Python for a project",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How can I construct a breadth-first search algorithm in Java?",
+    "enhanced": "Set up breadth-first search in Java"
+  },
+  {
+    "original": "I want to know how please to handle exceptions in a Python program",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "tell me how to present a code in detail snippet for file I/O operations in C++?",
+    "enhanced": "Develop C++ code for file I/O"
+  },
+  {
+    "original": "Please explain how containerize use Docker to to a comprehensive Python application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "do I write a function to find the longest common kindly substring",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "Show me how to give me a detailed explanation of how to use multithreading in Python?",
+    "enhanced": "Explain multithreading in Python"
+  },
+  {
+    "original": "struggling to understand how to implement a depth-first comprehensive search in",
+    "enhanced": "Create depth-first search in C++"
+  },
+  {
+    "original": "Please tell me how to show me how to in detail create a simple REST API in Node.js?",
+    "enhanced": "Create REST API in Node.js"
+  },
+  {
+    "original": "Please help me write a step-by-step Python script to process CSV files",
+    "enhanced": "Set up Python script to process CSV files"
+  },
+  {
+    "original": "to know how table construct a hash comprehensive to in",
+    "enhanced": "Compare hash table in C"
+  },
+  {
+    "original": "you explain the difference between synchronous and asynchronous programming in JavaScript?",
+    "enhanced": "Create synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "How do I set up unit tests for a comprehensive Python",
+    "enhanced": "Set up unit tests for Python function"
+  },
+  {
+    "original": "Can you help me understand steps to to step-by-step use lambda functions in Python?",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "I need a guide on approach to to create a simple game using Pygame in Python",
+    "enhanced": "Develop Pygame game in Python"
+  },
+  {
+    "original": "Please tell me technique for to optimize a Python script for performance",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "I implement a queue data structure in",
+    "enhanced": "Implement queue data structure in Java"
+  },
+  {
+    "original": "I need provide an example of using promises in JavaScript?",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "Please describe steps to to set up a CI/CD pipeline using GitHub Actions",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "I need write a C++ program please to perform matrix multiplication?",
+    "enhanced": "Write C++ program for matrix multiplication"
+  },
+  {
+    "original": "Can you sways to me ways step-by-step to to handle file uploads in a Flask application?",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "me how to help understanding how to use pointers in C",
+    "enhanced": "Implement pointers in C"
+  },
+  {
+    "original": "Please deliver a JavaScript function to validate a phone number",
+    "enhanced": "Set up JavaScript function to validate phone number"
+  },
+  {
+    "original": "Can you  provide a detailed explanation of technique for to implement a binary search algorithm in Python?",
+    "enhanced": "Explain binary search implementation in Python"
+  },
+  {
+    "original": "in need a step-by-step guide in detail on writing a function to reverse a linked list I C++",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me what\u00e2\u20ac\u2122s wrong with my Java code that\u00e2\u20ac\u2122s supposed to step-by-step sort an array?",
+    "enhanced": "Debug Java array sorting code"
+  },
+  {
+    "original": "I want to know kindly method to to create a simple web server using Node.js with detailed instructions",
+    "enhanced": "Create Node.js web server"
+  },
+  {
+    "original": "Please give me a quickly comprehensive overview of object-oriented programming concepts in Java",
+    "enhanced": "Create OOP concepts in Java"
+  },
+  {
+    "original": "tell me step-by-step how to go about writing a Python script to scrape data from a",
+    "enhanced": "Create Python web scraping script"
+  },
+  {
+    "original": "Can comprehensive you help me understand the difference between a stack and a queue in data structures?",
+    "enhanced": "Compare stack and queue data structures"
+  },
+  {
+    "original": "to figure out how to use recursion to quickly solve the Fibonacci sequence",
+    "enhanced": "Implement Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "supply a code example for connecting to a MySQL database using PHP",
+    "enhanced": "Compare PHP code to connect to MySQL database"
+  },
+  {
+    "original": "What is the in way to optimize a SQL query for large datasets? best detail",
+    "enhanced": "Create SQL query for large datasets"
+  },
+  {
+    "original": "assistance with writing a bash script to automate",
+    "enhanced": "Write bash script for file backup automation"
+  },
+  {
+    "original": "Can you explain approach comprehensive to to use Git for version control in a collaborative project?",
+    "enhanced": "Create Git for collaborative version control"
+  },
+  {
+    "original": "I want Python learn how to implement a REST API quickly in to using Flask",
+    "enhanced": "Implement REST API in Python with Flask"
+  },
+  {
+    "original": "Please tell me approach to to troubleshoot a segmentation fault in a C program",
+    "enhanced": "Compare segmentation fault in C program"
+  },
+  {
+    "original": "How can I step-by-step write a function to check if a string is a palindrome in Python?",
+    "enhanced": "Write Python function to check palindrome string"
+  },
+  {
+    "original": "I need a detailed guide quickly on setting up a Django project for beginners",
+    "enhanced": "Set up Django project for beginners"
+  },
+  {
+    "original": "Please provide an example algorithm a sorting of implemented in C",
+    "enhanced": "Set up sorting algorithm in C"
+  },
+  {
+    "original": "looking for a way to parse JSON data in a Python please script",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "How do I in a simple GUI application using Tkinter create Python?",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "explain the closures of concept in JavaScript with an",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "Please tell me how to help with writing a Python program to calculate the factorial of a",
+    "enhanced": "Write Python program for factorial calculation"
+  },
+  {
+    "original": "How can I search a breadth-first build quickly algorithm in Java?",
+    "enhanced": "Describe breadth-first search in Java"
+  },
+  {
+    "original": "you provide a code snippet for in I/O operations file C++?",
+    "enhanced": "Write C++ code for file I/O"
+  },
+  {
+    "original": "Please explain technique for to use Docker to containerize a Python",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "I need a arrays to merge two sorted way in Java efficiently",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "How do to write a function I find the longest common substring in Python?",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "Can you give me in detail a detailed explanation of technique for to use multithreading in Python?",
+    "enhanced": "Explain multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m struggling to understand steps to kindly to execute a depth-first search in C++",
+    "enhanced": "Implement depth-first search in C++"
+  },
+  {
+    "original": "need show me how to create a simple REST API",
+    "enhanced": "Create REST API in Node.js"
+  },
+  {
+    "original": "Please help me write a Python script to process CSV files",
+    "enhanced": "Compare Python script to process CSV files"
+  },
+  {
+    "original": "want to know steps to to build a comprehensive hash table in C",
+    "enhanced": "Optimize hash table in C"
+  },
+  {
+    "original": "Show me how to explain the difference step-by-step between synchronous and asynchronous programming in JavaScript?",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please offer a Python script to connect kindly to an API and",
+    "enhanced": "Write Python script to fetch API data"
+  },
+  {
+    "original": "I set quickly up unit tests for a Python function?",
+    "enhanced": "Debug unit tests for Python function"
+  },
+  {
+    "original": "Can you help me understand how to use lambda functions in Python?",
+    "enhanced": "Implement lambda functions in Python"
+  },
+  {
+    "original": "need a guide on to approach to create a simple game using Pygame in",
+    "enhanced": "Create Pygame game in Python"
+  },
+  {
+    "original": "Please tell please me ways to to optimize a Python script for performance",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "How can I code a queue data structure in Java?",
+    "enhanced": "Develop queue data structure in Java"
+  },
+  {
+    "original": "Can comprehensive you provide an example of using promises in JavaScript?",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "I want to learn technique for to use regular expressions in step-by-step Python for text processing",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "Please elucidate how to set up a CI/CD pipeline using GitHub Actions",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "How do I write please a C++ program to perform matrix multiplication?",
+    "enhanced": "Develop C++ program for matrix multiplication"
+  },
+  {
+    "original": "Can you show me kindly how to handle file uploads in a Flask application?",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "Please tell me how to help understanding how to use pointers in C",
+    "enhanced": "Develop pointers in C"
+  },
+  {
+    "original": "a provide a JavaScript function to validate Please phone number",
+    "enhanced": "Write JavaScript function to validate phone number"
+  },
+  {
+    "original": "How do I  provide a detailed explanation of how to implement a binary search algorithm in Python?",
+    "enhanced": "Explain binary search implementation in Python"
+  },
+  {
+    "original": "Can you a guide on linked a function to reverse a writing list in C++",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell sort what\u00e2\u20ac\u2122s step-by-step wrong with my Java code that\u00e2\u20ac\u2122s supposed to me an array?",
+    "enhanced": "Debug Java array sorting code"
+  },
+  {
+    "original": "I want to know how to create a simple web server using Node.js with detailed instructions",
+    "enhanced": "Explain Node.js web server"
+  },
+  {
+    "original": "Please give me a comprehensive overview of object-oriented programming kindly concepts in Java",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "do I go about writing a Python script to scrape data from a",
+    "enhanced": "Write Python web scraping script"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to figure out how to use recursion to solve the Fibonacci sequence in JavaScript",
+    "enhanced": "Describe Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "Please give a code example for connecting to a MySQL database using PHP",
+    "enhanced": "Debug PHP code to connect to MySQL database"
+  },
+  {
+    "original": "What is the best way to optimize a SQL query for large comprehensive datasets?",
+    "enhanced": "Write SQL query for large datasets"
+  },
+  {
+    "original": "I need assistance with writing a bash script to automate file backups",
+    "enhanced": "Set up bash script for file backup automation"
+  },
+  {
+    "original": "Can you quickly clarify ways to to use Git for version control in a collaborative project?",
+    "enhanced": "Explain Git for collaborative version control"
+  },
+  {
+    "original": "I want to learn technique for to implement a REST API in Python using Flask",
+    "enhanced": "Implement REST API in Python with Flask"
+  },
+  {
+    "original": "What is the way to debug a segmentation fault in a C program",
+    "enhanced": "Debug segmentation fault in C program"
+  },
+  {
+    "original": "How can comprehensive I implement a function to check if a string is a palindrome in Python?",
+    "enhanced": "Write Python function to check palindrome string"
+  },
+  {
+    "original": "How do I a detailed guide on setting up a Django project for beginners",
+    "enhanced": "Implement Django project for beginners"
+  },
+  {
+    "original": "Can quickly you show me how to use regular expressions in JavaScript to validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please offer an example of a sorting in detail algorithm implemented in C",
+    "enhanced": "Write sorting algorithm in C"
+  },
+  {
+    "original": "I need create a simple GUI application using Tkinter in Python?",
+    "enhanced": "Optimize Tkinter GUI application in Python"
+  },
+  {
+    "original": "Can you explain the concept of closures in JavaScript with an step-by-step example?",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "I need a with writing help Python program to calculate the factorial of a number",
+    "enhanced": "Write Python program for factorial calculation"
+  },
+  {
+    "original": "Please tell me technique step-by-step for to set up a virtual environment in Python for a project",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How can please I construct a breadth-first search algorithm in Java?",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "I want to know approach to to handle exceptions in a comprehensive Python program",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "Can you present a code snippet for file I/O operations quickly in C++?",
+    "enhanced": "Set up C++ code for file I/O"
+  },
+  {
+    "original": "Please explain method to to use quickly Docker to containerize a Python application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "How do please I build a function to find the longest common substring in Python?",
+    "enhanced": "Create Python function for longest common substring"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m struggling to understand how to C++ a depth-first search in implement",
+    "enhanced": "Describe depth-first search in C++"
+  },
+  {
+    "original": "Can you sapproach to me approach to to create a simple REST API in Node.js?",
+    "enhanced": "Implement REST API in Node.js"
+  },
+  {
+    "original": "a help me implement Please Python script to process CSV files",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "is the way to explain the difference between synchronous and asynchronous programming in",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please supply a Python script to connect to an API and fetch data",
+    "enhanced": "Write Python script to fetch API data"
+  },
+  {
+    "original": "I need set up unit tests for step-by-step a Python",
+    "enhanced": "Set up unit tests for Python function"
+  },
+  {
+    "original": "is the way to help me understand approach to to use lambda functions",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "I need a guide on how to create a simple game using Pygame in Python",
+    "enhanced": "Implement Pygame game in Python"
+  },
+  {
+    "original": "Please tell me ways to to optimize a Python script for",
+    "enhanced": "Implement Python script performance"
+  },
+  {
+    "original": "How can I implement a queue data structure in Java?",
+    "enhanced": "Set up queue data structure in Java"
+  },
+  {
+    "original": "Can you provide promises example of using an in",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "how to set up a CI/CD pipeline using GitHub",
+    "enhanced": "Set up CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "I need in detail write a C++ program to perform matrix multiplication?",
+    "enhanced": "Describe C++ program for matrix multiplication"
+  },
+  {
+    "original": "you stechnique for me technique for to handle file uploads in a Flask application?",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "Please tell me how to help understanding how to use pointers in C",
+    "enhanced": "Explain pointers in C"
+  },
+  {
+    "original": "Can you  provide a detailed explanation of how to build a binary search algorithm in Python?",
+    "enhanced": "Optimize binary search codeation in Python"
+  },
+  {
+    "original": "How do I a step-by-step quickly guide on writing a function to reverse a linked list in C++",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "you tell me what\u00e2\u20ac\u2122s wrong code my Java with that\u00e2\u20ac\u2122s supposed to sort an array?",
+    "enhanced": "Debug Java array sorting code"
+  },
+  {
+    "original": "comprehensive want to know how to create a simple web server using Node.js with detailed instructions",
+    "enhanced": "Create Node.js web server"
+  },
+  {
+    "original": "Please give me a  overview of object-oriented programming concepts in Java",
+    "enhanced": "Implement OOP concepts in Java"
+  },
+  {
+    "original": "about do I go How writing a Python script to scrape data from a website?",
+    "enhanced": "Write Python web scraping script"
+  },
+  {
+    "original": "I need detail me understand in help the difference between a stack and a queue in data",
+    "enhanced": "Optimize stack and queue data structures"
+  },
+  {
+    "original": "Please provide a code example for connecting to a MySQL database using PHP",
+    "enhanced": "Debug PHP code to connect to MySQL database"
+  },
+  {
+    "original": "the best SQL way to optimize a please query for",
+    "enhanced": "Describe SQL query for large datasets"
+  },
+  {
+    "original": "assistance with kindly writing a bash script to automate file backups",
+    "enhanced": "Write bash script for file backup automation"
+  },
+  {
+    "original": "What is the way to elucidate technique for to use Git for version control in a collaborative project?",
+    "enhanced": "Explain Git for collaborative version control"
+  },
+  {
+    "original": "I want to learn how to implement a REST API in Python using Flask",
+    "enhanced": "Compare REST API in Python with Flask"
+  },
+  {
+    "original": "tell kindly me technique for to debug a segmentation fault in a",
+    "enhanced": "Debug segmentation fault in C program"
+  },
+  {
+    "original": "I write a function to check if a string is a palindrome in",
+    "enhanced": "Write Python function to check palindrome string"
+  },
+  {
+    "original": "I need a detailed guide on setting up a Django project for",
+    "enhanced": "Describe Django project for beginners"
+  },
+  {
+    "original": "me how to use me how to show regular expressions in JavaScript to validate",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please present an example of step-by-step sorting algorithm a executeed",
+    "enhanced": "Create sorting algorithm in C"
+  },
+  {
+    "original": "me how to create a simple GUI application using Tkinter in Python?",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "Please tell me how to explain the concept of closures in JavaScript with comprehensive an example?",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "I need help with writing a Python program to calculate the factorial of in detail a number",
+    "enhanced": "Set up Python program for factorial calculation"
+  },
+  {
+    "original": "Please tell me how to set up kindly a for environment in Python virtual a project",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How can I implement a breadth-first search algorithm in Java?",
+    "enhanced": "Debug breadth-first search in Java"
+  },
+  {
+    "original": "I want to know how to handle exceptions in program Python a",
+    "enhanced": "Handle exceptions in Python"
+  },
+  {
+    "original": "What is the way please to provide a code snippet for file I/O operations in C++?",
+    "enhanced": "Write C++ code for file I/O"
+  },
+  {
+    "original": "Please comprehensive explain how to use Docker to containerize a Python application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "I need a way arrays merge two sorted to kindly in Java efficiently",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "What is the way to code a function to find the longest common substring in Python?",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "I need give me a detailed explanation of how to use multithreading in Python?",
+    "enhanced": "Explain multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m struggling to understand how please to implement a depth-first search in C++",
+    "enhanced": "Implement depth-first search in C++"
+  },
+  {
+    "original": "How do I show me how to create a comprehensive simple REST API in Node.js?",
+    "enhanced": "Compare REST API in Node.js"
+  },
+  {
+    "original": "Please files me develop a Python script to process CSV help",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "How can I use SQL to tables multiple join in a database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "want to know ways to to implement a hash table in",
+    "enhanced": "Implement hash table in C"
+  },
+  {
+    "original": "Please tell me how to explain the difference between synchronous and asynchronous programming in JavaScript?",
+    "enhanced": "Develop synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "do I set up unit tests for a",
+    "enhanced": "Set up unit tests for Python function"
+  },
+  {
+    "original": "What is the way to help me understand how to use lambda functions in Python?",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "I need a guide step-by-step on ways to to create a simple game using Pygame in Python",
+    "enhanced": "Develop Pygame game in Python"
+  },
+  {
+    "original": "me approach to to optimize a Python script for performance",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "I please queue a implement data structure",
+    "enhanced": "Implement queue data structure in Java"
+  },
+  {
+    "original": "How do I give an example of using promises in JavaScript?",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "to learn approach to please Python use regular expressions in to for",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "Show me how to write a C++ program to perform matrix multiplication?",
+    "enhanced": "Develop C++ program for matrix multiplication"
+  },
+  {
+    "original": "What is the way to ssteps to me steps kindly to to handle file uploads in a Flask application?",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "I need quickly help understanding steps to to use pointers in C",
+    "enhanced": "Explain pointers in C"
+  },
+  {
+    "original": "Can you please present a detailed explanation of quickly how to build a binary search algorithm in Python?",
+    "enhanced": "Explain binary search developation in Python"
+  },
+  {
+    "original": "is the way to a guide on writing a function to reverse a linked list",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me what\u00e2\u20ac\u2122s wrong quickly with my Java code that\u00e2\u20ac\u2122s supposed to sort an array?",
+    "enhanced": "Debug Java array sorting code"
+  },
+  {
+    "original": "I want to know how to create a simple web server using Node.js with detailed instructions",
+    "enhanced": "Explain Node.js web server"
+  },
+  {
+    "original": "give me a comprehensive overview please of object-oriented programming concepts",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "Please tell me how to go about writing a Python script to scrape quickly data from a website?",
+    "enhanced": "Write Python web scraping script"
+  },
+  {
+    "original": "Can you help the understand me difference between comprehensive a stack and a queue in",
+    "enhanced": "Compare stack and queue data structures"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to figure out ways to to use recursion to solve the step-by-step Fibonacci sequence in JavaScript",
+    "enhanced": "Implement Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "Please provide a code example for connecting to a MySQL please database using PHP",
+    "enhanced": "Write PHP code to connect to MySQL database"
+  },
+  {
+    "original": "What is the best way to optimize a SQL query for large datasets?",
+    "enhanced": "Set up SQL query for large datasets"
+  },
+  {
+    "original": "Can in elucidate how to use Git for version control you a quickly collaborative project?",
+    "enhanced": "Explain Git for collaborative version control"
+  },
+  {
+    "original": "I Python to learn how to implement a REST API in want using Flask",
+    "enhanced": "Implement REST API in Python with Flask"
+  },
+  {
+    "original": "do I fix a segmentation fault in a C program comprehensive",
+    "enhanced": "Compare segmentation fault in C program"
+  },
+  {
+    "original": "I a detailed guide for setting up a Django project on",
+    "enhanced": "Set up Django project for beginners"
+  },
+  {
+    "original": "Can please you sways to me ways to to use regular expressions in JavaScript to validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "an example of comprehensive a sorting algorithm developed",
+    "enhanced": "Write sorting algorithm in C"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m looking for a way to parse JSON data in a",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "Please tell me how to create a simple GUI application using Tkinter in in detail Python?",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "Show me how to explain the concept please of closures in JavaScript with an example?",
+    "enhanced": "Set up JavaScript closures with example"
+  },
+  {
+    "original": "help with writing a Python program to calculate the factorial of a",
+    "enhanced": "Write Python program for factorial calculation"
+  },
+  {
+    "original": "Please tell me approach to for set up a virtual environment in Python to a project",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "How can I in detail implement a breadth-first search algorithm in Java?",
+    "enhanced": "Describe breadth-first search in Java"
+  },
+  {
+    "original": "Can you provide please code snippet a for file I/O operations in C++?",
+    "enhanced": "Write C++ code for file I/O"
+  },
+  {
+    "original": "Please explain ways to to use Docker to containerize a Python application",
+    "enhanced": "Containerize Python application with Docker"
+  },
+  {
+    "original": "Can you kindly a way to merge two sorted arrays in Java efficiently",
+    "enhanced": "Merge two sorted arrays in Java"
+  },
+  {
+    "original": "How do I write a function to find the quickly longest common substring in Python?",
+    "enhanced": "Compare Python function for longest common substring"
+  },
+  {
+    "original": "Can you give me a detailed explanation step-by-step of how to use multithreading in Python?",
+    "enhanced": "Explain multithreading in Python"
+  },
+  {
+    "original": "to understand how to please code a depth-first search in C++",
+    "enhanced": "Optimize depth-first search in C++"
+  },
+  {
+    "original": "I need show me how to create a simple REST API step-by-step in Node.js?",
+    "enhanced": "Write REST API in Node.js"
+  },
+  {
+    "original": "me code a Python script kindly to process",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "I want to know how to implement a hash table in C",
+    "enhanced": "Develop hash table in C"
+  },
+  {
+    "original": "What is the way to explain the difference between synchronous and asynchronous programming quickly in JavaScript?",
+    "enhanced": "Describe synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please supply a Python script to connect to an API and fetch data",
+    "enhanced": "Write Python script to fetch API data"
+  },
+  {
+    "original": "Can you set up unit tests kindly for a Python function?",
+    "enhanced": "Set up unit tests for Python function"
+  },
+  {
+    "original": "the way to help me understand how to use lambda in detail functions in Python?",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "Please tell me how to a guide on how to create a simple game using Pygame in Python kindly",
+    "enhanced": "Create Pygame game in Python"
+  },
+  {
+    "original": "Please tell me how to optimize a Python script for performance",
+    "enhanced": "Create Python script performance"
+  },
+  {
+    "original": "How can I construct a queue data structure in Java?",
+    "enhanced": "Implement queue data structure in Java"
+  },
+  {
+    "original": "you present an example of using in detail promises",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "I want to learn steps to to use regular expressions in Python for text processing",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "clarify how to set up a CI/CD pipeline using GitHub",
+    "enhanced": "Create CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "How do I build a C++ step-by-step program matrix perform to multiplication?",
+    "enhanced": "Write C++ program for matrix multiplication"
+  },
+  {
+    "original": "Please tell me how to show me how to handle uploads file in a Flask application?",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "Can you help understanding how to use pointers in kindly C",
+    "enhanced": "Explain pointers in C"
+  },
+  {
+    "original": "Please offer a JavaScript function to validate kindly a phone number",
+    "enhanced": "Write JavaScript function to validate phone number"
+  },
+  {
+    "original": "Can you please provide a search explanation kindly of method to to implement a binary detailed algorithm in Python?",
+    "enhanced": "Explain binary search implementation in Python"
+  },
+  {
+    "original": "need a guide on writing a function to reverse a linked list in C++",
+    "enhanced": "Write C++ function to reverse linked list"
+  },
+  {
+    "original": "Could you tell me what\u00e2\u20ac\u2122s please wrong with my Java code that\u00e2\u20ac\u2122s supposed to sort an array?",
+    "enhanced": "Explain Java array sorting code"
+  },
+  {
+    "original": "I want to know please technique for to create a simple web server using Node.js with detailed instructions",
+    "enhanced": "Implement Node.js web server"
+  },
+  {
+    "original": "Please give me in detail a comprehensive overview of object-oriented programming concepts in Java",
+    "enhanced": "Explain OOP concepts in Java"
+  },
+  {
+    "original": "What is the way to go about writing a Python script to scrape please data from a website?",
+    "enhanced": "Write Python web scraping script"
+  },
+  {
+    "original": "Can you help difference understand the me between step-by-step a stack and a queue in data structures?",
+    "enhanced": "Explain stack and queue data structures"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m trying to figure out how to use recursion to solve the Fibonacci in detail sequence in JavaScript",
+    "enhanced": "Explain Fibonacci sequence using recursion in JavaScript"
+  },
+  {
+    "original": "give a code example for connecting to a MySQL database",
+    "enhanced": "Debug PHP code to connect to MySQL database"
+  },
+  {
+    "original": "What is the best way to optimize a large query for SQL datasets?",
+    "enhanced": "Optimize SQL query for large datasets"
+  },
+  {
+    "original": "Show me how to assistance with writing a bash script to automate file backups",
+    "enhanced": "Explain bash script for file backup automation"
+  },
+  {
+    "original": "Can you illustrate method to to use Git for version in detail control in a collaborative project?",
+    "enhanced": "Explain Git for collaborative version control"
+  },
+  {
+    "original": "I want to learn technique for to implement a REST API in Python using Flask",
+    "enhanced": "Implement REST API in Python with Flask"
+  },
+  {
+    "original": "please you fix Can a segmentation fault in a C program",
+    "enhanced": "Debug segmentation fault in C program"
+  },
+  {
+    "original": "can I implement a function to check if a string is a kindly palindrome in",
+    "enhanced": "Implement Python function to check palindrome string"
+  },
+  {
+    "original": "a setting guide on detailed up a Django project for kindly",
+    "enhanced": "Set up Django project for beginners"
+  },
+  {
+    "original": "What is the way to ssteps to me steps to to use regular expressions in JavaScript to validate an email?",
+    "enhanced": "Validate email using regular expressions in JavaScript"
+  },
+  {
+    "original": "Please provide an example of a sorting algorithm constructed in C",
+    "enhanced": "Implement sorting algorithm in C"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m looking for a please way to parse JSON data in a Python script",
+    "enhanced": "Parse JSON data in Python"
+  },
+  {
+    "original": "How do I create a simple GUI application using Tkinter quickly in Python?",
+    "enhanced": "Create Tkinter GUI application in Python"
+  },
+  {
+    "original": "Can you clarify the concept of closures in JavaScript with an example?",
+    "enhanced": "Explain JavaScript closures with example"
+  },
+  {
+    "original": "Please tell me how to help with writing comprehensive a Python program to calculate the factorial of a number",
+    "enhanced": "Write Python program for factorial calculation"
+  },
+  {
+    "original": "Please tell me ways to to set up a virtual environment in Python for a project",
+    "enhanced": "Set up Python virtual environment"
+  },
+  {
+    "original": "can I develop a breadth-first search algorithm",
+    "enhanced": "Implement breadth-first search in Java"
+  },
+  {
+    "original": "Show me how to provide a code snippet for file step-by-step I/O operations in C++?",
+    "enhanced": "Implement C++ code for file I/O"
+  },
+  {
+    "original": "I need write please a function to find the longest common substring in Python?",
+    "enhanced": "Write Python function for longest common substring"
+  },
+  {
+    "original": "Can you give me a detailed explanation of steps to to use kindly multithreading in",
+    "enhanced": "Optimize multithreading in Python"
+  },
+  {
+    "original": "I\u00e2\u20ac\u2122m struggling to understand construct to to method a depth-first search in C++",
+    "enhanced": "Implement depth-first search in C++"
+  },
+  {
+    "original": "Can you show me how to create a simple REST API in Node.js?",
+    "enhanced": "Describe REST API in Node.js"
+  },
+  {
+    "original": "Please help me implement a Python script to process CSV files",
+    "enhanced": "Write Python script to process CSV files"
+  },
+  {
+    "original": "How can I join SQL to use multiple tables please in a database?",
+    "enhanced": "Join multiple tables in SQL"
+  },
+  {
+    "original": "What is the way to explain the difference between in and asynchronous programming synchronous JavaScript?",
+    "enhanced": "Explain synchronous vs asynchronous programming in JavaScript"
+  },
+  {
+    "original": "Please a give Python script to connect to an API and fetch data",
+    "enhanced": "Write Python script to fetch API data"
+  },
+  {
+    "original": "Show me how to set up unit tests for a Python function?",
+    "enhanced": "Set up unit tests for Python function"
+  },
+  {
+    "original": "help me understand how to use lambda functions step-by-step in Python?",
+    "enhanced": "Explain lambda functions in Python"
+  },
+  {
+    "original": "I need a guide on how to create a simple game using Pygame in Python",
+    "enhanced": "Compare Pygame game in Python"
+  },
+  {
+    "original": "Please tell me how to comprehensive optimize a Python script for performance",
+    "enhanced": "Optimize Python script performance"
+  },
+  {
+    "original": "How data I implement a queue can structure in Java?",
+    "enhanced": "Implement queue data structure in Java"
+  },
+  {
+    "original": "What is the way to deliver an example of using promises in JavaScript?",
+    "enhanced": "Use promises in JavaScript"
+  },
+  {
+    "original": "I want to learn method to to use regular expressions for in Python kindly text processing",
+    "enhanced": "Use regular expressions for text processing in Python"
+  },
+  {
+    "original": "Please explain approach to to set up a CI/CD pipeline using GitHub please Actions",
+    "enhanced": "Compare CI/CD pipeline with GitHub Actions"
+  },
+  {
+    "original": "write a C++ program to perform matrix multiplication?",
+    "enhanced": "Develop C++ program for matrix multiplication"
+  },
+  {
+    "original": "stechnique for me technique for to handle file uploads in a Flask",
+    "enhanced": "Handle file uploads in Flask"
+  },
+  {
+    "original": "I need help understanding how comprehensive to use pointers",
+    "enhanced": "Implement pointers in C"
+  }
+]
